@@ -1,0 +1,6598 @@
+2014-09-19 17:51:11 
+errorID:0
+type:Error
+message:
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-19 18:21:13 aaaaaaaa
+errorID:3692
+type:Error
+message:Error #3692
+location:null
+text:
+[32]getPlayerCnt
+[33]getPlayerCnt
+[34]getPlayerCnt
+[35]getPlayerCnt
+[36]getPlayerCnt
+[37]getPlayerCnt
+[38]getPlayerCnt
+[39]getPlayerCnt
+[40]getPlayerCnt
+[41]getPlayerCnt
+[42]getPlayerCnt
+[43]getPlayerCnt
+[44]getPlayerCnt
+[45]getPlayerCnt
+[46]getPlayerCnt
+[47]getPlayerCnt
+[48]getPlayerCnt
+[49]startCoop
+[50]gotoMain
+[51]makeScenario
+[52]setHamayumi
+[53]makeHitBmp
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]getPlayerCnt
+[27]getPlayerCnt
+[28]getPlayerCnt
+[29]getPlayerCnt
+[30]getPlayerCnt
+[31]getPlayerCnt
+
+2014-09-19 18:23:06 aaaaaaaa
+errorID:3692
+type:Error
+message:Error #3692: 描画の前にフレームごとにすべてのバッファーをクリアする必要があります。
+location:Error: Error #3692: 描画の前にフレームごとにすべてのバッファーをクリアする必要があります。
+	at flash.display3D::Context3D/drawToBitmapData()
+	at Game/makeHitBmp()
+	at Game/makeScenario()
+	at Game/gotoMain()
+	at Game/startCoop()
+	at MethodInfo-136()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]startCoop
+[25]gotoMain
+[26]makeScenario
+[27]setHamayumi
+[28]makeHitBmp
+null
+null
+null
+
+2014-09-19 18:41:33 aaaaaaaa
+errorID:3692
+type:Error
+message:Error #3692: 描画の前にフレームごとにすべてのバッファーをクリアする必要があります。
+location:Error: Error #3692: 描画の前にフレームごとにすべてのバッファーをクリアする必要があります。
+	at flash.display3D::Context3D/drawToBitmapData()
+	at Game/makeHitBmp()
+	at Game/makeScenario()
+	at Game/gotoMain()
+	at Game/startCoop()
+	at MethodInfo-136()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]startCoop
+[26]gotoMain
+[27]makeScenario
+[28]setHamayumi
+[29]makeHitBmp
+null
+null
+
+2014-09-19 18:44:39 aaaaaaaa
+errorID:3692
+type:Error
+message:Error #3692: 描画の前にフレームごとにすべてのバッファーをクリアする必要があります。
+location:Error: Error #3692: 描画の前にフレームごとにすべてのバッファーをクリアする必要があります。
+	at flash.display3D::Context3D/drawToBitmapData()
+	at Game/makeHitBmp()
+	at Game/makeScenario()
+	at Game/gotoMain()
+	at Game/startCoop()
+	at MethodInfo-136()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]getPlayerCnt
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]startCoop
+[27]gotoMain
+[28]makeScenario
+[29]setHamayumi
+[30]makeHitBmp
+null
+
+2014-09-19 21:29:18 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Global$/myUncompress()[C:\xampp\htdocs\game\arrows\Global.as:452]
+	at MakeGamen/convertText2Image()[C:\xampp\htdocs\game\arrows\MakeGamen.as:922]
+	at MakeGamen/sendData()[C:\xampp\htdocs\game\arrows\MakeGamen.as:1109]
+	at MakeGamen/clickYes()[C:\xampp\htdocs\game\arrows\MakeGamen.as:1100]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]joinTop
+[11]enterFrameHitoOsugi
+[12]getPlayerCnt
+[13]_roomAddedListener
+[14]addOccupantTopListener
+[15]joinResultTopListener
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]enterFrameHitoOsugi
+[20]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-20 10:56:44 
+aaaaaaaa
+errorID:1056
+type:ReferenceError
+message:Error #1056: __AS3__.vec.Vector.<starling.display::Image> のプロパティ undefined を作成できません。
+location:ReferenceError: Error #1056: __AS3__.vec.Vector.<starling.display::Image> のプロパティ undefined を作成できません。
+	at MakeGamen/convertText2Image()
+	at MakeGamen/clickTeisatsu()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]joinTop
+[11]enterFrameHitoOsugi
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]_roomAddedListener
+[20]addOccupantTopListener
+[21]joinResultTopListener
+[22]enterFrameHitoOsugi
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]enterFrameHitoOsugi
+[26]getPlayerCnt
+[27]getPlayerCnt
+[28]getPlayerCnt
+null
+null
+null
+
+2014-09-20 10:57:31 
+aaaaaaaa
+errorID:1056
+type:ReferenceError
+message:Error #1056: __AS3__.vec.Vector.<starling.display::Image> のプロパティ undefined を作成できません。
+location:ReferenceError: Error #1056: __AS3__.vec.Vector.<starling.display::Image> のプロパティ undefined を作成できません。
+	at MakeGamen/convertText2Image()[C:\xampp\htdocs\game\arrows\MakeGamen.as:977]
+	at MakeGamen/clickTeisatsu()[C:\xampp\htdocs\game\arrows\MakeGamen.as:456]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-21 10:36:20 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Global$/myUncompress()
+	at MakeGamen/convertText2Image()
+	at Game/gotoMain()
+	at Game/startCoop()
+	at MethodInfo-136()
+text:
+[64]getPlayerCnt
+[65]getPlayerCnt
+[66]getPlayerCnt
+[67]getPlayerCnt
+[68]getPlayerCnt
+[69]getPlayerCnt
+[70]getPlayerCnt
+[71]getPlayerCnt
+[72]getPlayerCnt
+[73]getPlayerCnt
+[74]getPlayerCnt
+[75]startCoop
+[76]gotoMain
+[45]getPlayerCnt
+[46]getPlayerCnt
+[47]getPlayerCnt
+[48]getPlayerCnt
+[49]getPlayerCnt
+[50]getPlayerCnt
+[51]getPlayerCnt
+[52]getPlayerCnt
+[53]getPlayerCnt
+[54]getPlayerCnt
+[55]getPlayerCnt
+[56]getPlayerCnt
+[57]getPlayerCnt
+[58]getPlayerCnt
+[59]getPlayerCnt
+[60]getPlayerCnt
+[61]getPlayerCnt
+[62]getPlayerCnt
+[63]getPlayerCnt
+
+2014-09-21 10:37:30 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Global$/myUncompress()
+	at MakeGamen/convertText2Image()
+	at Game/gotoMain()
+	at Game/startCoop()
+	at MethodInfo-136()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]startCoop
+[25]gotoMain
+null
+null
+null
+null
+null
+null
+
+2014-09-21 11:02:51 
+aaaaaaaa
+errorID:2101
+type:Error
+message:Error #2101: URLVariables.decode() に渡される文字列は、名前/値のペアを含む、URL エンコーディングされたクエリー文字列でなければなりません。
+location:Error: Error #2101: URLVariables.decode() に渡される文字列は、名前/値のペアを含む、URL エンコーディングされたクエリー文字列でなければなりません。
+	at Error$/throwError()
+	at flash.net::URLVariables/decode()
+	at flash.net::URLVariables()
+	at flash.net::URLLoader/onComplete()
+text:
+[73792]sendDamageData
+[73793]save
+[73794]touch
+[73795]touch
+[73796]enterFrameMain
+[73797]drawMember0 0
+[73798]sendDamageData
+[73799]enterFrameMain
+[73800]drawMember0 0
+[73801]sendDamageData
+[73770]enterFrameMain
+[73771]drawMember0 0
+[73772]sendDamageData
+[73773]touch
+[73774]touch
+[73775]touch
+[73776]touch
+[73777]enterFrameMain
+[73778]drawMember0 0
+[73779]sendDamageData
+[73780]touch
+[73781]touch
+[73782]touch
+[73783]enterFrameMain
+[73784]drawMember0 0
+[73785]sendDamageData
+[73786]touch
+[73787]enterFrameMain
+[73788]drawMember0 0
+[73789]sendDamageData
+[73790]enterFrameMain
+[73791]drawMember0 0
+
+2014-09-21 16:22:16 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Global$/myUncompress()[C:\xampp\htdocs\game\arrows\Global.as:452]
+	at MakeGamen/convertText2Image()[C:\xampp\htdocs\game\arrows\MakeGamen.as:948]
+	at Game/gotoMain()[C:\xampp\htdocs\game\arrows\Game.as:1226]
+	at Game/startCoop()[C:\xampp\htdocs\game\arrows\Game.as:1728]
+	at Function/Game/$construct/clickStart()[C:\xampp\htdocs\game\arrows\Game.as:520]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]enterFrameSelectGamen
+[11]joinTop
+[12]_roomAddedListener
+[13]addOccupantTopListener
+[14]joinResultTopListener
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]enterFrameHitoOsugi
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]startCoop
+[24]gotoMain
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-21 16:23:09 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Global$/myUncompress()[C:\xampp\htdocs\game\arrows\Global.as:452]
+	at MakeGamen/convertText2Image()[C:\xampp\htdocs\game\arrows\MakeGamen.as:948]
+	at Game/gotoMain()[C:\xampp\htdocs\game\arrows\Game.as:1226]
+	at Game/startCoop()[C:\xampp\htdocs\game\arrows\Game.as:1728]
+	at Function/Game/$construct/clickStart()[C:\xampp\htdocs\game\arrows\Game.as:520]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]getPlayerCnt
+[10]enterFrameSelectGamen
+[11]joinTop
+[12]_roomAddedListener
+[13]addOccupantTopListener
+[14]joinResultTopListener
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]enterFrameHitoOsugi
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]startCoop
+[24]gotoMain
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-21 16:54:49 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at Table/getData()
+	at MakeGamen/showReport()
+	at MakeGamen/clickBmp()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]joinTop
+[7]_roomAddedListener
+[8]addOccupantTopListener
+[9]joinResultTopListener
+[10]enterFrameHitoOsugi
+[11]getPlayerCnt
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-21 17:07:44 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at Table/getData()[C:\xampp\htdocs\game\arrows\Table.as:37]
+	at MakeGamen/showReport()[C:\xampp\htdocs\game\arrows\MakeGamen.as:387]
+	at MakeGamen/clickBmp()[C:\xampp\htdocs\game\arrows\MakeGamen.as:632]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]joinTop
+[8]_roomAddedListener
+[9]addOccupantTopListener
+[10]joinResultTopListener
+[11]getPlayerCnt
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-21 17:26:36 
+aaaaaaaa
+errorID:2015
+type:ArgumentError
+message:Error #2015: BitmapData が無効です。
+location:ArgumentError: Error #2015: BitmapData が無効です。
+	at flash.display::BitmapData/ctor()
+	at flash.display::BitmapData()
+	at MakeGamen/setDefaultOnibidan()[C:\xampp\htdocs\game\arrows\MakeGamen.as:654]
+	at MakeGamen/clickBmp()[C:\xampp\htdocs\game\arrows\MakeGamen.as:632]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-21 17:27:27 
+aaaaaaaa
+errorID:2015
+type:ArgumentError
+message:Error #2015: BitmapData が無効です。
+location:ArgumentError: Error #2015: BitmapData が無効です。
+	at flash.display::BitmapData/ctor()
+	at flash.display::BitmapData()
+	at MakeGamen/setDefaultOnibidan()[C:\xampp\htdocs\game\arrows\MakeGamen.as:654]
+	at MakeGamen/clickBmp()[C:\xampp\htdocs\game\arrows\MakeGamen.as:632]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-21 17:59:56 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Global$/myUncompress()[C:\xampp\htdocs\game\arrows\Global.as:452]
+	at MakeGamen/clickNormal()[C:\xampp\htdocs\game\arrows\MakeGamen.as:652]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]enterFrameSelectGamen
+[11]enterFrameSelectGamen
+[12]enterFrameSelectGamen
+[13]enterFrameSelectGamen
+[14]enterFrameSelectGamen
+[15]enterFrameSelectGamen
+[16]enterFrameSelectGamen
+[17]enterFrameSelectGamen
+[18]enterFrameSelectGamen
+[19]joinTop
+[20]_roomAddedListener
+[21]addOccupantTopListener
+[22]joinResultTopListener
+[23]enterFrameHitoOsugi
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]enterFrameHitoOsugi
+[27]getPlayerCnt
+[28]getPlayerCnt
+null
+null
+null
+
+2014-09-21 19:34:32 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 4 は 4 の範囲外です。
+location:RangeError: Error #1125: インデックス 4 は 4 の範囲外です。
+	at MakeGamen/showStageType()
+	at MakeGamen/clickNext()
+text:
+[4576]sendDamageData
+[4577]checkClear
+[4578]enterFrameMain
+[4579]drawMember0 0
+[4580]sendDamageData
+[4581]checkClear
+[4582]save
+[4583]gotoSelect
+[4584]clearReportStatus
+[4585]getPlayerCnt
+[4586]enterFrameSelectGamen
+[4587]joinTop
+[4588]_roomAddedListener
+[4589]addOccupantTopListener
+[4590]joinResultTopListener
+[4591]enterFrameHitoOsugi
+[4560]touch
+[4561]enterFrameMain
+[4562]drawMember0 0
+[4563]sendDamageData
+[4564]checkClear
+[4565]touch
+[4566]touch
+[4567]touch
+[4568]touch
+[4569]enterFrameMain
+[4570]drawMember0 0
+[4571]sendDamageData
+[4572]checkClear
+[4573]touch
+[4574]enterFrameMain
+[4575]drawMember0 0
+
+2014-09-21 19:35:26 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 4 は 4 の範囲外です。
+location:RangeError: Error #1125: インデックス 4 は 4 の範囲外です。
+	at MakeGamen/showStageType()[C:\xampp\htdocs\game\arrows\MakeGamen.as:555]
+	at MakeGamen/clickNext()[C:\xampp\htdocs\game\arrows\MakeGamen.as:519]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-21 19:36:07 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 4 は 4 の範囲外です。
+location:RangeError: Error #1125: インデックス 4 は 4 の範囲外です。
+	at Game/gotoMain()[C:\xampp\htdocs\game\arrows\Game.as:1247]
+	at Function/Game/$construct/clickTeisatsu()[C:\xampp\htdocs\game\arrows\Game.as:596]
+	at MakeGamen/clickTeisatsu()[C:\xampp\htdocs\game\arrows\MakeGamen.as:464]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]gotoMain
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-21 20:00:17 
+aaaaaaaa
+errorID:1006
+type:TypeError
+message:Error #1006: value は関数ではありません。
+location:TypeError: Error #1006: value は関数ではありません。
+	at Monster/move()
+	at Game/enterFrameMain()
+	at starling.events::EventDispatcher/invokeEvent()
+	at starling.events::EventDispatcher/dispatchEvent()
+	at starling.display::DisplayObject/dispatchEvent()
+	at starling.display::DisplayObjectContainer/broadcastEvent()
+	at starling.display::Stage/advanceTime()
+	at starling.core::Starling/advanceTime()
+	at starling.core::Starling/nextFrame()
+	at starling.core::Starling/onEnterFrame()
+text:
+[1504]checkClear
+[1505]enterFrameMain
+[1506]drawMember0 0
+[1507]sendDamageData
+[1508]checkClear
+[1509]enterFrameMain
+[1510]drawMember0 0
+[1511]sendDamageData
+[1512]checkClear
+[1513]enterFrameMain
+[1514]drawMember0 0
+[1515]sendDamageData
+[1516]checkClear
+[1517]enterFrameMain
+[1518]drawMember0 0
+[1519]sendDamageData
+[1520]checkClear
+[1521]checkGameOver
+[1522]enterFrameMain
+[1491]sendDamageData
+[1492]checkClear
+[1493]enterFrameMain
+[1494]drawMember0 0
+[1495]sendDamageData
+[1496]checkClear
+[1497]enterFrameMain
+[1498]drawMember0 0
+[1499]sendDamageData
+[1500]checkClear
+[1501]enterFrameMain
+[1502]drawMember0 0
+[1503]sendDamageData
+
+2014-09-21 20:01:56 
+aaaaaaaa
+errorID:1006
+type:TypeError
+message:Error #1006: value は関数ではありません。
+location:TypeError: Error #1006: value は関数ではありません。
+	at Monster/move()[C:\xampp\htdocs\game\arrows\Monster.as:210]
+	at Game/enterFrameMain()[C:\xampp\htdocs\game\arrows\Game.as:8149]
+	at starling.events::EventDispatcher/invokeEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:146]
+	at starling.events::EventDispatcher/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:117]
+	at starling.display::DisplayObject/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObject.as:398]
+	at starling.display::DisplayObjectContainer/broadcastEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:379]
+	at starling.display::Stage/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/Stage.as:77]
+	at starling.core::Starling/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:470]
+	at starling.core::Starling/nextFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:456]
+	at starling.core::Starling/onEnterFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:660]
+text:
+[1504]enterFrameMain
+[1505]drawMember0 0
+[1506]sendDamageData
+[1507]checkClear
+[1508]enterFrameMain
+[1509]drawMember0 0
+[1510]sendDamageData
+[1511]checkClear
+[1512]enterFrameMain
+[1513]drawMember0 0
+[1514]sendDamageData
+[1515]checkClear
+[1516]enterFrameMain
+[1517]drawMember0 0
+[1518]sendDamageData
+[1519]checkClear
+[1520]enterFrameMain
+[1521]drawMember0 0
+[1522]sendDamageData
+[1523]checkClear
+[1524]enterFrameMain
+[1493]drawMember0 0
+[1494]sendDamageData
+[1495]checkClear
+[1496]enterFrameMain
+[1497]drawMember0 0
+[1498]sendDamageData
+[1499]checkClear
+[1500]enterFrameMain
+[1501]drawMember0 0
+[1502]sendDamageData
+[1503]checkClear
+
+2014-09-22 05:50:51 
+aaaaaaaa
+errorID:2007
+type:TypeError
+message:Error #2007: パラメーター text は null 以外でなければなりません。
+location:TypeError: Error #2007: パラメーター text は null 以外でなければなりません。
+	at flash.text::TextField/set text()
+	at YumishiGamen/clickItem()
+text:
+[192]getPlayerCnt
+[193]getPlayerCnt
+[194]getPlayerCnt
+[195]getPlayerCnt
+[196]getPlayerCnt
+[197]getPlayerCnt
+[166]getPlayerCnt
+[167]getPlayerCnt
+[168]getPlayerCnt
+[169]getPlayerCnt
+[170]getPlayerCnt
+[171]getPlayerCnt
+[172]getPlayerCnt
+[173]getPlayerCnt
+[174]getPlayerCnt
+[175]getPlayerCnt
+[176]getPlayerCnt
+[177]getPlayerCnt
+[178]getPlayerCnt
+[179]getPlayerCnt
+[180]getPlayerCnt
+[181]getPlayerCnt
+[182]getPlayerCnt
+[183]getPlayerCnt
+[184]getPlayerCnt
+[185]getPlayerCnt
+[186]getPlayerCnt
+[187]getPlayerCnt
+[188]getPlayerCnt
+[189]getPlayerCnt
+[190]getPlayerCnt
+[191]getPlayerCnt
+
+2014-09-22 06:16:19 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at Table/getData()
+	at YumishiGamen/clickItem()
+text:
+[96]getPlayerCnt
+[97]getPlayerCnt
+[98]getPlayerCnt
+[99]getPlayerCnt
+[100]getPlayerCnt
+[101]getPlayerCnt
+[102]getPlayerCnt
+[103]getPlayerCnt
+[104]getPlayerCnt
+[105]getPlayerCnt
+[106]getPlayerCnt
+[107]getPlayerCnt
+[108]getPlayerCnt
+[109]getPlayerCnt
+[110]getPlayerCnt
+[111]getPlayerCnt
+[112]getPlayerCnt
+[113]getPlayerCnt
+[82]getPlayerCnt
+[83]getPlayerCnt
+[84]getPlayerCnt
+[85]getPlayerCnt
+[86]getPlayerCnt
+[87]getPlayerCnt
+[88]getPlayerCnt
+[89]getPlayerCnt
+[90]getPlayerCnt
+[91]getPlayerCnt
+[92]getPlayerCnt
+[93]getPlayerCnt
+[94]getPlayerCnt
+[95]getPlayerCnt
+
+2014-09-22 08:08:05 aaaaaaaa[RCV]:DOCHO,13,60,26.8,1.1166666666666667,0,0,0,-1,-1,
+2014-09-22 08:08:07 bbbbbbbb[RCV]:DOCHO,13,60,26.8,1.1166666666666667,0,0,0,-1,-1,
+2014-09-22 08:08:07 bbbbbbbb[RCV]:DOCHO,14,55,20,0.8333333333333334,0,0,0.2,8,-1,
+2014-09-22 08:11:08 cccccccc(13->15[RCV]:DOCHO,13,60,26.8,1.1166666666666667,0,0,0,-1,-1,
+2014-09-22 08:11:08 cccccccc(14->15[RCV]:DOCHO,14,55,20,0.8333333333333334,0,0,0.2,8,-1,
+2014-09-22 08:11:08 cccccccc(15->15[RCV]:DOCHO,15,60,20,0.8333333333333334,0,0,0,-1,-1,
+2014-09-22 08:30:53 aaaaaaaa(16->16[RCV]:DOCHO,16,60,26.8,1.1166666666666667,0,0,0,-1,-1,[60]
+2014-09-22 08:30:54 bbbbbbbb(17->17[RCV]:DOCHO,17,55,20,0.8333333333333334,0,0,0.2,8,-1,[55]
+2014-09-22 08:30:54 bbbbbbbb(16->17[RCV]:DOCHO,16,60,26.8,1.1166666666666667,0,0,0,-1,-1,[55]
+2014-09-22 09:01:20 aaaaaaaa(19->19[RCV]:DOCHO,19,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:01:22 bbbbbbbb(18->18[RCV]:DOCHO,18,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:01:22 bbbbbbbb(19->18[RCV]:DOCHO,19,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 09:01:31 aaaaaaaa:380,26.8,1.1166666666666667,0,0,0,-1,-1
+2014-09-22 09:02:47 aaaaaaaa(22->22[RCV]:DOCHO,22,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:02:51 bbbbbbbb(22->20[RCV]:DOCHO,22,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 09:02:51 bbbbbbbb(20->20[RCV]:DOCHO,20,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:03:38 aaaaaaaa:380,26.8,1.1166666666666667,0,0,0,-1,-1
+2014-09-22 09:14:27 aaaaaaaa(23->23[RCV]:DOCHO,23,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:14:30 aaaaaaaa(24->23[RCV]:DOCHO,24,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:14:30 bbbbbbbb(23->24[RCV]:DOCHO,23,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:14:30 aaaaaaaa(23->23[RCV]:DOCHO,23,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:20:09 aaaaaaaa(25->25[RCV]:DOCHO,25,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:20:10 aaaaaaaa(25->25[RCV]:DOCHO,25,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:20:10 aaaaaaaa(26->25[RCV]:DOCHO,26,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:20:10 bbbbbbbb(25->26[RCV]:DOCHO,25,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:20:10 bbbbbbbb(26->26[RCV]:DOCHO,26,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:20:13 aaaaaaaa:83,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 09:21:23 aaaaaaaa(28->28[RCV]:DOCHO,28,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 09:21:25 aaaaaaaa:83,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 09:24:54 aaaaaaaa(30->30[RCV]:DOCHO,30,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:24:55 qqqqqqqq(30->31[RCV]:DOCHO,30,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:24:55 qqqqqqqq(31->31[RCV]:DOCHO,31,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-22 09:24:55 aaaaaaaa(30->30[RCV]:DOCHO,30,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:24:55 aaaaaaaa(31->30[RCV]:DOCHO,31,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-22 09:26:01 aaaaaaaa(34->34[RCV]:DOCHO,34,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN20]
+2014-09-22 09:26:01 qqqqqqqq(32->32[RCV]:DOCHO,32,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-22 09:26:01 qqqqqqqq(34->32[RCV]:DOCHO,34,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN20]
+2014-09-22 09:26:01 aaaaaaaa(32->34[RCV]:DOCHO,32,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-22 09:26:01 aaaaaaaa(34->34[RCV]:DOCHO,34,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN20]
+2014-09-22 09:26:57 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Game/enterFrameMain()[C:\xampp\htdocs\game\arrows\Game.as:8874]
+	at starling.events::EventDispatcher/invokeEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:146]
+	at starling.events::EventDispatcher/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:117]
+	at starling.display::DisplayObject/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObject.as:398]
+	at starling.display::DisplayObjectContainer/broadcastEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:379]
+	at starling.display::Stage/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/Stage.as:77]
+	at starling.core::Starling/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:470]
+	at starling.core::Starling/nextFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:456]
+	at starling.core::Starling/onEnterFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:660]
+text:
+[6656]getRoomMemberStr
+[6657]isHost
+[6658]isRoomFull
+[6659]isClose
+[6660]shimekiriRoom
+[6661]gotoMain
+[6662]makeScenario
+[6663]setHamayumi
+[6664]drawBackground
+[6665]setGameLevel
+[6666]leaveTop
+[6667]messageListener
+[6668]recieveCoopMsg
+[6669]isHost
+[6670]_roomRemovedListener
+[6671]enterFrameMain
+[6640]isClose
+[6641]enterFrameWait
+[6642]checkGameOver
+[6643]getRoomMemberStr
+[6644]isHost
+[6645]isRoomFull
+[6646]isClose
+[6647]enterFrameWait
+[6648]checkGameOver
+[6649]getRoomMemberStr
+[6650]isHost
+[6651]isRoomFull
+[6652]isClose
+[6653]shimekiriRoom
+[6654]enterFrameWait
+[6655]checkGameOver
+
+2014-09-22 09:27:58 aaaaaaaa(35->35[RCV]:DOCHO,35,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:27:59 bbbbbbbb(36->36[RCV]:DOCHO,36,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:27:59 aaaaaaaa(36->35[RCV]:DOCHO,36,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:27:59 aaaaaaaa(35->35[RCV]:DOCHO,35,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 09:27:59 bbbbbbbb(35->36[RCV]:DOCHO,35,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 09:29:02 aaaaaaaa:83,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 09:29:02 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Game/enterFrameMain()[C:\xampp\htdocs\game\arrows\Game.as:8875]
+	at starling.events::EventDispatcher/invokeEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:146]
+	at starling.events::EventDispatcher/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:117]
+	at starling.display::DisplayObject/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObject.as:398]
+	at starling.display::DisplayObjectContainer/broadcastEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:379]
+	at starling.display::Stage/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/Stage.as:77]
+	at starling.core::Starling/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:470]
+	at starling.core::Starling/nextFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:456]
+	at starling.core::Starling/onEnterFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:660]
+text:
+[640]isRoomFull
+[641]isClose
+[642]shimekiriRoom
+[643]gotoMain
+[644]makeScenario
+[645]setHamayumi
+[646]drawBackground
+[647]setGameLevel
+[648]leaveTop
+[649]messageListener
+[650]recieveCoopMsg
+[651]isHost
+[652]_roomRemovedListener
+[653]enterFrameMain
+[622]isClose
+[623]enterFrameWait
+[624]checkGameOver
+[625]getRoomMemberStr
+[626]isHost
+[627]isRoomFull
+[628]isClose
+[629]enterFrameWait
+[630]checkGameOver
+[631]getRoomMemberStr
+[632]isHost
+[633]isRoomFull
+[634]isClose
+[635]shimekiriRoom
+[636]enterFrameWait
+[637]checkGameOver
+[638]getRoomMemberStr
+[639]isHost
+
+2014-09-22 09:29:43 aaaaaaaa(38->38[RCV]:DOCHO,38,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:29:44 kkkkkkkk(37->37[RCV]:DOCHO,37,16,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN16]
+2014-09-22 09:29:44 kkkkkkkk(38->37[RCV]:DOCHO,38,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN16]
+2014-09-22 09:29:44 aaaaaaaa(38->38[RCV]:DOCHO,38,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN16]
+2014-09-22 09:29:44 aaaaaaaa(37->38[RCV]:DOCHO,37,16,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN16]
+2014-09-22 09:30:22 aaaaaaaa:16,20,0.8333333333333334,0,0,0,-1,-1
+2014-09-22 09:30:32 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Game/enterFrameMain()[C:\xampp\htdocs\game\arrows\Game.as:8875]
+	at starling.events::EventDispatcher/invokeEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:146]
+	at starling.events::EventDispatcher/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:117]
+	at starling.display::DisplayObject/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObject.as:398]
+	at starling.display::DisplayObjectContainer/broadcastEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:379]
+	at starling.display::Stage/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/Stage.as:77]
+	at starling.core::Starling/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:470]
+	at starling.core::Starling/nextFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:456]
+	at starling.core::Starling/onEnterFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:660]
+text:
+[320]getRoomMemberStr
+[321]isHost
+[322]isRoomFull
+[323]isClose
+[324]shimekiriRoom
+[325]gotoMain
+[326]makeScenario
+[327]setHamayumi
+[328]drawBackground
+[329]setGameLevel
+[330]leaveTop
+[331]messageListener
+[332]recieveCoopMsg
+[333]isHost
+[334]_roomRemovedListener
+[335]enterFrameMain
+[304]isClose
+[305]enterFrameWait
+[306]checkGameOver
+[307]getRoomMemberStr
+[308]isHost
+[309]isRoomFull
+[310]isClose
+[311]enterFrameWait
+[312]checkGameOver
+[313]getRoomMemberStr
+[314]isHost
+[315]isRoomFull
+[316]isClose
+[317]shimekiriRoom
+[318]enterFrameWait
+[319]checkGameOver
+
+2014-09-22 09:31:04 aaaaaaaa(39->39[RCV]:DOCHO,39,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:31:05 aaaaaaaa(40->39[RCV]:DOCHO,40,16,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN16]
+2014-09-22 09:31:05 aaaaaaaa(39->39[RCV]:DOCHO,39,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:31:05 kkkkkkkk(39->40[RCV]:DOCHO,39,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:31:05 kkkkkkkk(40->40[RCV]:DOCHO,40,16,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN16]
+2014-09-22 09:31:08 aaaaaaaa:16,20,0.8333333333333334,0,0,0,-1,-1
+2014-09-22 09:32:56 aaaaaaaa(43->43[RCV]:DOCHO,43,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:32:56 aaaaaaaa(44->43[RCV]:DOCHO,44,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:32:56 aaaaaaaa(43->43[RCV]:DOCHO,43,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:32:56 bbbbbbbb(44->44[RCV]:DOCHO,44,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:32:56 bbbbbbbb(43->44[RCV]:DOCHO,43,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:32:58 aaaaaaaa:83,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 09:37:15 aaaaaaaa(47->47[RCV]:DOCHO,47,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:37:15 aaaaaaaa(47->47[RCV]:DOCHO,47,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:37:15 aaaaaaaa(46->47[RCV]:DOCHO,46,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:37:15 bbbbbbbb(46->46[RCV]:DOCHO,46,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:37:15 bbbbbbbb(47->46[RCV]:DOCHO,47,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:37:29 aaaaaaaa:83,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 09:39:45 aaaaaaaa(48->48[RCV]:DOCHO,48,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:39:46 bbbbbbbb(48->49[RCV]:DOCHO,48,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 09:39:46 bbbbbbbb(49->49[RCV]:DOCHO,49,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:39:46 aaaaaaaa(49->48[RCV]:DOCHO,49,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:39:46 aaaaaaaa(48->48[RCV]:DOCHO,48,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 09:40:16 aaaaaaaa:83,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 09:40:51 aaaaaaaa(50->50[RCV]:DOCHO,50,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:40:52 aaaaaaaa(51->50[RCV]:DOCHO,51,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:40:52 aaaaaaaa(50->50[RCV]:DOCHO,50,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:40:52 bbbbbbbb(51->51[RCV]:DOCHO,51,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 09:40:52 bbbbbbbb(50->51[RCV]:DOCHO,50,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 09:40:54 aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 11:09:55 aaaaaaaa(70->70[RCV]:DOCHO,70,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:09:55 aaaaaaaa(70->70[RCV]:DOCHO,70,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:09:55 aaaaaaaa(69->70[RCV]:DOCHO,69,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:09:55 bbbbbbbb(70->69[RCV]:DOCHO,70,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:09:55 bbbbbbbb(69->69[RCV]:DOCHO,69,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:09:58 aaaaaaaa(71->71[RCV]:DOCHO,71,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:09:58 bbbbbbbb(71->72[RCV]:DOCHO,71,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:09:58 bbbbbbbb(72->72[RCV]:DOCHO,72,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:09:58 aaaaaaaa(72->71[RCV]:DOCHO,72,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:09:58 aaaaaaaa(71->71[RCV]:DOCHO,71,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:10:53 aaaaaaaa(73->73[RCV]:DOCHO,73,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:10:53 aaaaaaaa(75->73[RCV]:DOCHO,75,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:10:53 aaaaaaaa(73->73[RCV]:DOCHO,73,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:10:53 bbbbbbbb(73->75[RCV]:DOCHO,73,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:10:53 bbbbbbbb(75->75[RCV]:DOCHO,75,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:01 bbbbbbbb(77->77[RCV]:DOCHO,77,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:04 bbbbbbbb(77->77[RCV]:DOCHO,77,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:04 aaaaaaaa(77->76[RCV]:DOCHO,77,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:04 aaaaaaaa(76->76[RCV]:DOCHO,76,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:17:04 bbbbbbbb(76->77[RCV]:DOCHO,76,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:17:27 bbbbbbbb(79->79[RCV]:DOCHO,79,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:32 bbbbbbbb(80->80[RCV]:DOCHO,80,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:32 bbbbbbbb(78->80[RCV]:DOCHO,78,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:17:32 bbbbbbbb(80->80[RCV]:DOCHO,80,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:32 aaaaaaaa(80->78[RCV]:DOCHO,80,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:32 aaaaaaaa(78->78[RCV]:DOCHO,78,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:17:55 bbbbbbbb(82->82[RCV]:DOCHO,82,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:55 bbbbbbbb(82->82[RCV]:DOCHO,82,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:17:55 bbbbbbbb(81->82[RCV]:DOCHO,81,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:17:55 aaaaaaaa(81->81[RCV]:DOCHO,81,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:17:55 aaaaaaaa(82->81[RCV]:DOCHO,82,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:17 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:18 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:18 aaaaaaaa(85->84[RCV]:DOCHO,85,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:18 cccccccc(84->85[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:18 cccccccc(85->85[RCV]:DOCHO,85,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:18 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:18 aaaaaaaa(87->84[RCV]:DOCHO,87,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:18 cccccccc(84->87[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:18 cccccccc(87->87[RCV]:DOCHO,87,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:18 aaaaaaaa(86->84[RCV]:DOCHO,86,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:18 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:18 bbbbbbbb(84->86[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:18 bbbbbbbb(86->86[RCV]:DOCHO,86,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:19 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:19 aaaaaaaa(88->84[RCV]:DOCHO,88,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:19 cccccccc(84->88[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:19 cccccccc(88->88[RCV]:DOCHO,88,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:19 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:19 aaaaaaaa(90->84[RCV]:DOCHO,90,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+55]
+2014-09-22 11:22:19 cccccccc(84->90[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:19 cccccccc(90->90[RCV]:DOCHO,90,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:20 aaaaaaaa(91->84[RCV]:DOCHO,91,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:20 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:20 aaaaaaaa(92->84[RCV]:DOCHO,92,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+55]
+2014-09-22 11:22:20 cccccccc(92->92[RCV]:DOCHO,92,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:20 cccccccc(84->92[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:20 bbbbbbbb(93->93[RCV]:DOCHO,93,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:20 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:20 bbbbbbbb(84->93[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:20 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:20 aaaaaaaa(94->84[RCV]:DOCHO,94,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:20 cccccccc(94->94[RCV]:DOCHO,94,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:20 cccccccc(84->94[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:21 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:21 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:21 aaaaaaaa(96->84[RCV]:DOCHO,96,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:21 cccccccc(84->96[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:21 cccccccc(96->96[RCV]:DOCHO,96,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:21 aaaaaaaa(97->84[RCV]:DOCHO,97,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:21 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:21 bbbbbbbb(97->97[RCV]:DOCHO,97,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:21 bbbbbbbb(84->97[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:22 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:22 cccccccc(98->98[RCV]:DOCHO,98,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:22 cccccccc(84->98[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:22 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:22 aaaaaaaa(100->84[RCV]:DOCHO,100,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:22 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:22 cccccccc(100->100[RCV]:DOCHO,100,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:22 cccccccc(84->100[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:22 aaaaaaaa(101->84[RCV]:DOCHO,101,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:22 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:23 cccccccc(84->102[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:23 aaaaaaaa(102->84[RCV]:DOCHO,102,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:23 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:23 cccccccc(102->102[RCV]:DOCHO,102,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:23 aaaaaaaa(103->84[RCV]:DOCHO,103,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:23 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:23 bbbbbbbb(84->103[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:23 bbbbbbbb(103->103[RCV]:DOCHO,103,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:23 aaaaaaaa(104->84[RCV]:DOCHO,104,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:23 cccccccc(104->104[RCV]:DOCHO,104,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:23 aaaaaaaa(84->84[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:23 cccccccc(84->104[RCV]:DOCHO,84,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:30 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:30 aaaaaaaa(108->107[RCV]:DOCHO,108,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:30 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:30 bbbbbbbb(108->108[RCV]:DOCHO,108,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:31 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:31 cccccccc(109->109[RCV]:DOCHO,109,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:31 aaaaaaaa(109->107[RCV]:DOCHO,109,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:31 cccccccc(107->109[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:31 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:31 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:31 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:32 aaaaaaaa(113->107[RCV]:DOCHO,113,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:32 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:32 cccccccc(113->113[RCV]:DOCHO,113,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:32 cccccccc(107->113[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:32 bbbbbbbb(107->114[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:32 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:32 aaaaaaaa(114->107[RCV]:DOCHO,114,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:32 bbbbbbbb(114->114[RCV]:DOCHO,114,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:32 aaaaaaaa(115->107[RCV]:DOCHO,115,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:32 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:32 cccccccc(107->115[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:32 cccccccc(115->115[RCV]:DOCHO,115,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:32 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:32 aaaaaaaa(116->107[RCV]:DOCHO,116,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:33 aaaaaaaa(117->107[RCV]:DOCHO,117,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:33 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:33 cccccccc(117->117[RCV]:DOCHO,117,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:33 cccccccc(107->117[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:33 aaaaaaaa(118->107[RCV]:DOCHO,118,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:33 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:33 bbbbbbbb(118->118[RCV]:DOCHO,118,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:33 bbbbbbbb(107->118[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:33 cccccccc(107->119[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:33 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:33 cccccccc(119->119[RCV]:DOCHO,119,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:33 aaaaaaaa(120->107[RCV]:DOCHO,120,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+5]
+2014-09-22 11:22:34 cccccccc(121->121[RCV]:DOCHO,121,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:34 cccccccc(107->121[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:34 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:34 aaaaaaaa(121->107[RCV]:DOCHO,121,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:34 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:34 aaaaaaaa(123->107[RCV]:DOCHO,123,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:34 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:34 cccccccc(107->123[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:34 cccccccc(123->123[RCV]:DOCHO,123,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:35 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:35 aaaaaaaa(125->107[RCV]:DOCHO,125,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:35 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:35 cccccccc(107->125[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:35 cccccccc(125->125[RCV]:DOCHO,125,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:35 aaaaaaaa(126->107[RCV]:DOCHO,126,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:35 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:36 aaaaaaaa(127->107[RCV]:DOCHO,127,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:36 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:36 cccccccc(127->127[RCV]:DOCHO,127,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:36 cccccccc(107->127[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:22:36 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:36 aaaaaaaa(130->107[RCV]:DOCHO,130,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:36 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:36 bbbbbbbb(107->130[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:36 bbbbbbbb(130->130[RCV]:DOCHO,130,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:22:37 aaaaaaaa(107->107[RCV]:DOCHO,107,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:22:37 aaaaaaaa(132->107[RCV]:DOCHO,132,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:04 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:04 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:04 aaaaaaaa(136->137[RCV]:DOCHO,136,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:04 bbbbbbbb(136->136[RCV]:DOCHO,136,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:04 bbbbbbbb(137->136[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:04 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:05 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:05 aaaaaaaa(139->137[RCV]:DOCHO,139,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:05 bbbbbbbb(139->139[RCV]:DOCHO,139,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:05 bbbbbbbb(137->139[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:05 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:05 aaaaaaaa(140->137[RCV]:DOCHO,140,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:05 cccccccc(140->140[RCV]:DOCHO,140,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:05 cccccccc(137->140[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:05 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:05 aaaaaaaa(141->137[RCV]:DOCHO,141,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:05 bbbbbbbb(137->141[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:05 bbbbbbbb(141->141[RCV]:DOCHO,141,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:05 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:06 aaaaaaaa(143->137[RCV]:DOCHO,143,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:06 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:06 bbbbbbbb(143->143[RCV]:DOCHO,143,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:06 bbbbbbbb(137->143[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:06 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:06 aaaaaaaa(144->137[RCV]:DOCHO,144,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:06 cccccccc(144->144[RCV]:DOCHO,144,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:06 cccccccc(137->144[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:06 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:06 aaaaaaaa(145->137[RCV]:DOCHO,145,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:06 bbbbbbbb(137->145[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:06 bbbbbbbb(145->145[RCV]:DOCHO,145,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:06 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:07 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:07 aaaaaaaa(147->137[RCV]:DOCHO,147,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:07 bbbbbbbb(147->147[RCV]:DOCHO,147,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:07 bbbbbbbb(137->147[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:07 aaaaaaaa(148->137[RCV]:DOCHO,148,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:07 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:07 cccccccc(137->148[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:07 cccccccc(148->148[RCV]:DOCHO,148,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:07 aaaaaaaa(149->137[RCV]:DOCHO,149,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:07 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:07 bbbbbbbb(137->149[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:07 bbbbbbbb(149->149[RCV]:DOCHO,149,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:07 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:08 aaaaaaaa(151->137[RCV]:DOCHO,151,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:08 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:08 bbbbbbbb(137->151[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:08 bbbbbbbb(151->151[RCV]:DOCHO,151,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:08 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:08 aaaaaaaa(152->137[RCV]:DOCHO,152,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:08 cccccccc(152->152[RCV]:DOCHO,152,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:08 cccccccc(137->152[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:08 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:08 aaaaaaaa(153->137[RCV]:DOCHO,153,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:08 bbbbbbbb(137->153[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:08 bbbbbbbb(153->153[RCV]:DOCHO,153,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:08 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:09 aaaaaaaa(155->137[RCV]:DOCHO,155,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:09 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:09 bbbbbbbb(155->155[RCV]:DOCHO,155,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:09 bbbbbbbb(137->155[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:09 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:09 aaaaaaaa(156->137[RCV]:DOCHO,156,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:09 cccccccc(137->156[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:09 cccccccc(156->156[RCV]:DOCHO,156,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:09 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:09 aaaaaaaa(157->137[RCV]:DOCHO,157,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:10 bbbbbbbb(137->157[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:10 bbbbbbbb(157->157[RCV]:DOCHO,157,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:10 aaaaaaaa(158->137[RCV]:DOCHO,158,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:10 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:10 aaaaaaaa(159->137[RCV]:DOCHO,159,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+5]
+2014-09-22 11:25:10 bbbbbbbb(137->159[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:10 bbbbbbbb(159->159[RCV]:DOCHO,159,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:10 aaaaaaaa(160->137[RCV]:DOCHO,160,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:10 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:10 cccccccc(137->160[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:10 cccccccc(160->160[RCV]:DOCHO,160,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:25:11 bbbbbbbb(137->161[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:11 bbbbbbbb(161->161[RCV]:DOCHO,161,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:25:11 aaaaaaaa(137->137[RCV]:DOCHO,137,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:25:11 aaaaaaaa(161->137[RCV]:DOCHO,161,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:08 aaaaaaaa(168->168[RCV]:DOCHO,168,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:33:08 aaaaaaaa(168->168[RCV]:DOCHO,168,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:33:08 aaaaaaaa(166->168[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:08 bbbbbbbb(168->166[RCV]:DOCHO,168,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:33:08 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:12 cccccccc(167->167[RCV]:DOCHO,167,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:33:14 bbbbbbbb(168->166[RCV]:DOCHO,168,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:14 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:14 aaaaaaaa(168->168[RCV]:DOCHO,168,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:14 aaaaaaaa(166->168[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:14 aaaaaaaa(169->168[RCV]:DOCHO,169,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:14 cccccccc(166->169[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:14 cccccccc(169->169[RCV]:DOCHO,169,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:14 cccccccc(168->169[RCV]:DOCHO,168,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:14 bbbbbbbb(169->166[RCV]:DOCHO,169,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:18 bbbbbbbb(170->166[RCV]:DOCHO,170,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:18 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:18 cccccccc(166->170[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:18 cccccccc(170->170[RCV]:DOCHO,170,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:18 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:18 bbbbbbbb(171->166[RCV]:DOCHO,171,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:19 cccccccc(171->171[RCV]:DOCHO,171,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:19 cccccccc(166->171[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:19 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:19 bbbbbbbb(172->166[RCV]:DOCHO,172,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:19 cccccccc(166->172[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:19 cccccccc(172->172[RCV]:DOCHO,172,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:20 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:20 bbbbbbbb(173->166[RCV]:DOCHO,173,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:20 cccccccc(166->173[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:20 cccccccc(173->173[RCV]:DOCHO,173,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:20 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:20 bbbbbbbb(174->166[RCV]:DOCHO,174,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:20 cccccccc(174->174[RCV]:DOCHO,174,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:20 cccccccc(166->174[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:21 bbbbbbbb(175->166[RCV]:DOCHO,175,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:21 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:21 cccccccc(175->175[RCV]:DOCHO,175,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:21 cccccccc(166->175[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:21 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:21 bbbbbbbb(176->166[RCV]:DOCHO,176,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:21 cccccccc(166->176[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:21 cccccccc(176->176[RCV]:DOCHO,176,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:22 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:22 bbbbbbbb(177->166[RCV]:DOCHO,177,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:22 cccccccc(177->177[RCV]:DOCHO,177,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:22 cccccccc(166->177[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:22 bbbbbbbb(178->166[RCV]:DOCHO,178,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:22 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:22 cccccccc(178->178[RCV]:DOCHO,178,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:22 cccccccc(166->178[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:23 bbbbbbbb(179->166[RCV]:DOCHO,179,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:23 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:23 cccccccc(179->179[RCV]:DOCHO,179,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:23 cccccccc(166->179[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:23 bbbbbbbb(180->166[RCV]:DOCHO,180,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:23 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:23 cccccccc(180->180[RCV]:DOCHO,180,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:23 cccccccc(166->180[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:24 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:24 bbbbbbbb(181->166[RCV]:DOCHO,181,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:24 cccccccc(166->181[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:24 cccccccc(181->181[RCV]:DOCHO,181,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:24 bbbbbbbb(182->166[RCV]:DOCHO,182,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:24 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:24 cccccccc(182->182[RCV]:DOCHO,182,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:24 cccccccc(166->182[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:25 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:25 bbbbbbbb(183->166[RCV]:DOCHO,183,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:25 cccccccc(183->183[RCV]:DOCHO,183,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:25 cccccccc(166->183[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:26 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:26 bbbbbbbb(184->166[RCV]:DOCHO,184,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:26 cccccccc(184->184[RCV]:DOCHO,184,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:26 cccccccc(166->184[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:26 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:26 bbbbbbbb(185->166[RCV]:DOCHO,185,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:26 cccccccc(166->185[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:26 cccccccc(185->185[RCV]:DOCHO,185,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:27 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:27 bbbbbbbb(186->166[RCV]:DOCHO,186,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:27 cccccccc(186->186[RCV]:DOCHO,186,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:27 cccccccc(166->186[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:27 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:27 bbbbbbbb(187->166[RCV]:DOCHO,187,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:27 cccccccc(166->187[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:27 cccccccc(187->187[RCV]:DOCHO,187,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:28 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:28 bbbbbbbb(188->166[RCV]:DOCHO,188,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:28 cccccccc(166->188[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:28 cccccccc(188->188[RCV]:DOCHO,188,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:28 bbbbbbbb(189->166[RCV]:DOCHO,189,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:28 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:28 cccccccc(166->189[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:28 cccccccc(189->189[RCV]:DOCHO,189,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:29 bbbbbbbb(190->166[RCV]:DOCHO,190,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:29 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:29 cccccccc(166->190[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:29 cccccccc(190->190[RCV]:DOCHO,190,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:29 bbbbbbbb(191->166[RCV]:DOCHO,191,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:29 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:29 cccccccc(166->191[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:29 cccccccc(191->191[RCV]:DOCHO,191,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:30 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:30 bbbbbbbb(192->166[RCV]:DOCHO,192,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:30 cccccccc(192->192[RCV]:DOCHO,192,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:30 cccccccc(166->192[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:30 bbbbbbbb(193->166[RCV]:DOCHO,193,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:30 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:30 cccccccc(193->193[RCV]:DOCHO,193,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:30 cccccccc(166->193[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:31 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:31 bbbbbbbb(194->166[RCV]:DOCHO,194,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:31 cccccccc(166->194[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:31 cccccccc(194->194[RCV]:DOCHO,194,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:31 bbbbbbbb(195->166[RCV]:DOCHO,195,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:31 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:32 cccccccc(166->195[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:32 cccccccc(195->195[RCV]:DOCHO,195,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:32 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:32 bbbbbbbb(196->166[RCV]:DOCHO,196,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:32 cccccccc(196->196[RCV]:DOCHO,196,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:32 cccccccc(166->196[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:33 bbbbbbbb(197->166[RCV]:DOCHO,197,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:33 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:33 cccccccc(166->197[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:33 cccccccc(197->197[RCV]:DOCHO,197,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:33 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:33 bbbbbbbb(198->166[RCV]:DOCHO,198,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:33 cccccccc(166->198[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:33 cccccccc(198->198[RCV]:DOCHO,198,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:34 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:34 bbbbbbbb(199->166[RCV]:DOCHO,199,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:34 cccccccc(166->199[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:34 bbbbbbbb(166->166[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:33:34 bbbbbbbb(200->166[RCV]:DOCHO,200,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:34 cccccccc(200->200[RCV]:DOCHO,200,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:33:34 cccccccc(166->200[RCV]:DOCHO,166,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:35:46 cccccccc(206->206[RCV]:DOCHO,206,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:35:50 bbbbbbbb(205->205[RCV]:DOCHO,205,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:35:56 cccccccc(206->206[RCV]:DOCHO,206,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:35:56 cccccccc(207->206[RCV]:DOCHO,207,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:35:56 bbbbbbbb(206->207[RCV]:DOCHO,206,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:35:56 bbbbbbbb(207->207[RCV]:DOCHO,207,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:35:57 aaaaaaaa(204->204[RCV]:DOCHO,204,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:35:58 aaaaaaaa(208->204[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:35:58 bbbbbbbb(204->208[RCV]:DOCHO,204,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:35:58 bbbbbbbb(208->208[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:35:58 aaaaaaaa(204->204[RCV]:DOCHO,204,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:35:59 aaaaaaaa(208->204[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:35:59 bbbbbbbb(208->208[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:35:59 bbbbbbbb(204->208[RCV]:DOCHO,204,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:35:59 aaaaaaaa(204->204[RCV]:DOCHO,204,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:35:59 bbbbbbbb(209->208[RCV]:DOCHO,209,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:35:59 cccccccc(204->209[RCV]:DOCHO,204,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:35:59 cccccccc(208->209[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:35:59 cccccccc(209->209[RCV]:DOCHO,209,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:36:05 bbbbbbbb(208->208[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:05 bbbbbbbb(210->208[RCV]:DOCHO,210,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:36:05 cccccccc(208->210[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:05 cccccccc(210->210[RCV]:DOCHO,210,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:36:05 bbbbbbbb(208->208[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:06 bbbbbbbb(212->208[RCV]:DOCHO,212,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:36:06 bbbbbbbb(208->208[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:06 cccccccc(208->212[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:06 bbbbbbbb(208->208[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:07 bbbbbbbb(208->208[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:07 bbbbbbbb(214->208[RCV]:DOCHO,214,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:36:07 cccccccc(208->214[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:07 cccccccc(214->214[RCV]:DOCHO,214,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:36:07 bbbbbbbb(208->208[RCV]:DOCHO,208,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:46 aaaaaaaa(217->217[RCV]:DOCHO,217,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:36:49 bbbbbbbb(218->218[RCV]:DOCHO,218,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:51 cccccccc(219->219[RCV]:DOCHO,219,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:36:55 cccccccc(219->219[RCV]:DOCHO,219,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:36:55 aaaaaaaa(219->221[RCV]:DOCHO,219,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:36:55 aaaaaaaa(221->221[RCV]:DOCHO,221,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:36:55 cccccccc(221->219[RCV]:DOCHO,221,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:36:57 aaaaaaaa(222->222[RCV]:DOCHO,222,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:36:58 bbbbbbbb(220->220[RCV]:DOCHO,220,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:36:58 bbbbbbbb(222->220[RCV]:DOCHO,222,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:36:58 aaaaaaaa(222->222[RCV]:DOCHO,222,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:37:00 bbbbbbbb(220->220[RCV]:DOCHO,220,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:37:00 bbbbbbbb(222->220[RCV]:DOCHO,222,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:00 aaaaaaaa(220->222[RCV]:DOCHO,220,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:37:00 aaaaaaaa(222->222[RCV]:DOCHO,222,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:00 bbbbbbbb(223->220[RCV]:DOCHO,223,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:00 aaaaaaaa(223->222[RCV]:DOCHO,223,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:00 cccccccc(222->223[RCV]:DOCHO,222,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:37:00 cccccccc(220->223[RCV]:DOCHO,220,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:37:00 cccccccc(223->223[RCV]:DOCHO,223,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:23 aaaaaaaa(226->226[RCV]:DOCHO,226,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:37:24 aaaaaaaa(226->226[RCV]:DOCHO,226,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:37:24 aaaaaaaa(224->226[RCV]:DOCHO,224,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:37:24 cccccccc(225->224[RCV]:DOCHO,225,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:37:24 cccccccc(224->224[RCV]:DOCHO,224,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:24 cccccccc(224->224[RCV]:DOCHO,224,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:24 cccccccc(226->224[RCV]:DOCHO,226,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:24 cccccccc(225->224[RCV]:DOCHO,225,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:37:24 cccccccc(226->224[RCV]:DOCHO,226,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:24 aaaaaaaa(225->226[RCV]:DOCHO,225,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:37:24 aaaaaaaa(224->226[RCV]:DOCHO,224,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-22 11:37:24 bbbbbbbb(224->225[RCV]:DOCHO,224,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:24 bbbbbbbb(226->225[RCV]:DOCHO,226,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:24 aaaaaaaa(225->226[RCV]:DOCHO,225,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:37:24 aaaaaaaa(226->226[RCV]:DOCHO,226,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 11:37:24 bbbbbbbb(225->225[RCV]:DOCHO,225,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:37:24 bbbbbbbb(225->225[RCV]:DOCHO,225,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 11:37:26 aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 12:14:21 #bbbbbbbb(233->233[RCV]:DOCHO,233,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:14:21 #aaaaaaaa(232->232[RCV]:DOCHO,232,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 12:14:21 #aaaaaaaa(233->232[RCV]:DOCHO,233,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:14:21 #bbbbbbbb(233->233[RCV]:DOCHO,233,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:14:21 #bbbbbbbb(232->233[RCV]:DOCHO,232,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 12:14:23 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 12:17:28 #bbbbbbbb(236->236[RCV]:DOCHO,236,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:17:29 #aaaaaaaa(234->234[RCV]:DOCHO,234,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 12:17:29 #aaaaaaaa(236->234[RCV]:DOCHO,236,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:17:29 #bbbbbbbb(234->236[RCV]:DOCHO,234,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 12:17:29 #bbbbbbbb(236->236[RCV]:DOCHO,236,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:17:31 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 12:18:08 #bbbbbbbb(237->237[RCV]:DOCHO,237,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:18:11 #bbbbbbbb(238->237[RCV]:DOCHO,238,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 12:18:11 #bbbbbbbb(237->237[RCV]:DOCHO,237,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:18:11 #aaaaaaaa(237->238[RCV]:DOCHO,237,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:18:11 #aaaaaaaa(238->238[RCV]:DOCHO,238,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 12:18:13 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 12:18:39 #bbbbbbbb(239->239[RCV]:DOCHO,239,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:18:40 #aaaaaaaa(240->240[RCV]:DOCHO,240,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 12:18:40 #aaaaaaaa(239->240[RCV]:DOCHO,239,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:18:40 #bbbbbbbb(240->239[RCV]:DOCHO,240,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 12:18:40 #bbbbbbbb(239->239[RCV]:DOCHO,239,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:18:42 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 12:19:12 #bbbbbbbb(241->241[RCV]:DOCHO,241,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:19:12 #aaaaaaaa(242->242[RCV]:DOCHO,242,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 12:19:12 #aaaaaaaa(241->242[RCV]:DOCHO,241,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:19:12 #bbbbbbbb(242->241[RCV]:DOCHO,242,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 12:19:12 #bbbbbbbb(241->241[RCV]:DOCHO,241,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 12:19:14 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 13:19:20 #aaaaaaaa(246->246[RCV]:DOCHO,246,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN60]
+2014-09-22 13:19:20 #aaaaaaaa(247->246[RCV]:DOCHO,247,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 13:19:20 #aaaaaaaa(246->246[RCV]:DOCHO,246,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 13:19:20 #bbbbbbbb(246->247[RCV]:DOCHO,246,60,300,26.8,1.1166666666666667,0,0,0,-1,-1,[MIN55]
+2014-09-22 13:19:20 #bbbbbbbb(247->247[RCV]:DOCHO,247,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 13:19:22 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 15:00:02 #aaaaaaaa(255->255[RCV]:DOCHO,255,60,207,26.8,1.1166666666666667,0,0.55,0,-1,15,[MIN60]
+2014-09-22 15:00:46 #aaaaaaaa(255->255[RCV]:DOCHO,255,60,207,26.8,1.1166666666666667,0,0.55,0,-1,15,[MIN60]
+2014-09-22 15:00:46 #bbbbbbbb(255->256[RCV]:DOCHO,255,60,207,26.8,1.1166666666666667,0,0.55,0,-1,15,[MIN60]
+2014-09-22 15:00:46 #aaaaaaaa(256->255[RCV]:DOCHO,256,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 15:01:10 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 15:18:26 
+aaaaaaaa
+errorID:2101
+type:Error
+message:Error #2101: URLVariables.decode() に渡される文字列は、名前/値のペアを含む、URL エンコーディングされたクエリー文字列でなければなりません。
+location:Error: Error #2101: URLVariables.decode() に渡される文字列は、名前/値のペアを含む、URL エンコーディングされたクエリー文字列でなければなりません。
+	at Error$/throwError()
+	at flash.net::URLVariables/decode()
+	at flash.net::URLVariables()
+	at flash.net::URLLoader/onComplete()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-22 15:39:46 #bbbbbbbb(267->267[RCV]:DOCHO,267,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 15:39:47 #bbbbbbbb(267->267[RCV]:DOCHO,267,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 15:39:47 #bbbbbbbb(266->267[RCV]:DOCHO,266,60,209,26.8,1.1166666666666667,0,0.55,0,-1,15,[MIN55]
+2014-09-22 15:39:47 #aaaaaaaa(266->266[RCV]:DOCHO,266,60,209,26.8,1.1166666666666667,0,0.55,0,-1,15,[MIN55]
+2014-09-22 15:39:47 #aaaaaaaa(267->266[RCV]:DOCHO,267,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 15:39:49 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 15:40:05 #bbbbbbbb(269->269[RCV]:DOCHO,269,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 15:40:05 #bbbbbbbb(269->269[RCV]:DOCHO,269,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 15:40:05 #bbbbbbbb(268->269[RCV]:DOCHO,268,60,209,26.8,1.1166666666666667,0,0.55,0,-1,15,[MIN55]
+2014-09-22 15:40:05 #aaaaaaaa(269->268[RCV]:DOCHO,269,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 15:40:05 #aaaaaaaa(268->268[RCV]:DOCHO,268,60,209,26.8,1.1166666666666667,0,0.55,0,-1,15,[MIN55]
+2014-09-22 15:40:08 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:12:27 #aaaaaaaa(275->275[RCV]:DOCHO,275,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:12:41 #aaaaaaaa(275->275[RCV]:DOCHO,275,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:12:41 #bbbbbbbb(275->276[RCV]:DOCHO,275,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:12:41 #aaaaaaaa(276->275[RCV]:DOCHO,276,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:12:41 #bbbbbbbb(276->276[RCV]:DOCHO,276,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:12:43 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:17:05 #aaaaaaaa(279->279[RCV]:DOCHO,279,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:17:06 #bbbbbbbb(279->280[RCV]:DOCHO,279,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN55]
+2014-09-22 16:17:06 #bbbbbbbb(280->280[RCV]:DOCHO,280,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:17:06 #aaaaaaaa(280->279[RCV]:DOCHO,280,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:17:06 #aaaaaaaa(279->279[RCV]:DOCHO,279,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN55]
+2014-09-22 16:17:07 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:17:47 #aaaaaaaa(282->282[RCV]:DOCHO,282,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:17:48 #aaaaaaaa(281->282[RCV]:DOCHO,281,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:17:48 #bbbbbbbb(282->281[RCV]:DOCHO,282,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN55]
+2014-09-22 16:17:48 #aaaaaaaa(282->282[RCV]:DOCHO,282,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN55]
+2014-09-22 16:17:49 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:19:41 #aaaaaaaa(285->285[RCV]:DOCHO,285,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:19:41 #aaaaaaaa(285->285[RCV]:DOCHO,285,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:19:41 #aaaaaaaa(286->285[RCV]:DOCHO,286,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:19:41 #bbbbbbbb(286->286[RCV]:DOCHO,286,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:19:41 #bbbbbbbb(285->286[RCV]:DOCHO,285,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:19:43 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:20:44 #aaaaaaaa(287->287[RCV]:DOCHO,287,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:20:45 #aaaaaaaa(288->287[RCV]:DOCHO,288,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:20:45 #aaaaaaaa(287->287[RCV]:DOCHO,287,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN55]
+2014-09-22 16:20:45 #bbbbbbbb(288->288[RCV]:DOCHO,288,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:20:45 #bbbbbbbb(287->288[RCV]:DOCHO,287,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN55]
+2014-09-22 16:20:46 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:25:20 #aaaaaaaa(293->293[RCV]:DOCHO,293,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:25:20 #aaaaaaaa(293->293[RCV]:DOCHO,293,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:25:20 #aaaaaaaa(294->293[RCV]:DOCHO,294,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:25:20 #bbbbbbbb(293->294[RCV]:DOCHO,293,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:25:20 #bbbbbbbb(294->294[RCV]:DOCHO,294,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:25:21 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:25:21 #bbbbbbbb:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:25:42 #aaaaaaaa(296->296[RCV]:DOCHO,296,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:25:43 #aaaaaaaa(296->296[RCV]:DOCHO,296,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:25:43 #aaaaaaaa(295->296[RCV]:DOCHO,295,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:25:43 #bbbbbbbb(295->295[RCV]:DOCHO,295,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:25:43 #bbbbbbbb(296->295[RCV]:DOCHO,296,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:25:44 #bbbbbbbb:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:25:44 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:27:26 #aaaaaaaa(298->298[RCV]:DOCHO,298,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:27:41 #aaaaaaaa(299->299[RCV]:DOCHO,299,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:27:41 #aaaaaaaa(299->299[RCV]:DOCHO,299,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:27:41 #aaaaaaaa(297->299[RCV]:DOCHO,297,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:27:42 #bbbbbbbb(297->297[RCV]:DOCHO,297,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 16:27:42 #bbbbbbbb(299->297[RCV]:DOCHO,299,60,2,20,0.8333333333333334,0,0,0.5,-1,-1,[MIN60]
+2014-09-22 16:27:44 #bbbbbbbb:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 16:27:44 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 17:08:35 #aaaaaaaa(302->302[RCV]:DOCHO,302,60,2,20,0.8333333333333334,0,0,0.8,-1,-1,[MIN60]
+2014-09-22 17:08:35 #aaaaaaaa(303->302[RCV]:DOCHO,303,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 17:08:35 #aaaaaaaa(302->302[RCV]:DOCHO,302,60,2,20,0.8333333333333334,0,0,0.8,-1,-1,[MIN55]
+2014-09-22 17:08:35 #bbbbbbbb(303->303[RCV]:DOCHO,303,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-22 17:08:35 #bbbbbbbb(302->303[RCV]:DOCHO,302,60,2,20,0.8333333333333334,0,0,0.8,-1,-1,[MIN55]
+2014-09-22 17:08:36 #bbbbbbbb:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 17:08:37 #aaaaaaaa:28,20,0.8333333333333334,0,0,0.2,8,-1
+2014-09-22 17:54:47 
+
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at MakeGamen/addSpriteBtn()[C:\xampp\htdocs\game\arrows\MakeGamen.as:168]
+	at MakeGamen()[C:\xampp\htdocs\game\arrows\MakeGamen.as:71]
+	at Game()[C:\xampp\htdocs\game\arrows\Game.as:544]
+	at starling.core::Starling/initializeRoot()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:437]
+	at starling.core::Starling/initialize()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:410]
+	at starling.core::Starling/onContextCreated()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:649]
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-22 17:56:38 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 4 は 4 の範囲外です。
+location:RangeError: Error #1125: インデックス 4 は 4 の範囲外です。
+	at MakeGamen/convertText2Image()[C:\xampp\htdocs\game\arrows\MakeGamen.as:1055]
+	at MakeGamen/clickTeisatsu()[C:\xampp\htdocs\game\arrows\MakeGamen.as:471]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]getPlayerCnt
+[10]enterFrameSelectGamen
+[11]joinTop
+[12]_roomAddedListener
+[13]addOccupantTopListener
+[14]joinResultTopListener
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]enterFrameHitoOsugi
+[19]getPlayerCnt
+[20]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-22 17:57:49 
+
+errorID:1069
+type:ReferenceError
+message:Error #1069: __AS3__.vec.Vector.<starling.display::Image> にプロパティ undefined が見つからず、デフォルト値もありません。
+location:ReferenceError: Error #1069: __AS3__.vec.Vector.<starling.display::Image> にプロパティ undefined が見つからず、デフォルト値もありません。
+	at BitmapManager$/init()[C:\xampp\htdocs\game\arrows\BitmapManager.as:520]
+	at Game()[C:\xampp\htdocs\game\arrows\Game.as:216]
+	at starling.core::Starling/initializeRoot()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:437]
+	at starling.core::Starling/initialize()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:410]
+	at starling.core::Starling/onContextCreated()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:649]
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-22 17:59:16 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 3 は 3 の範囲外です。
+location:RangeError: Error #1125: インデックス 3 は 3 の範囲外です。
+	at MakeGamen/showAttackType()[C:\xampp\htdocs\game\arrows\MakeGamen.as:585]
+	at MakeGamen/show()[C:\xampp\htdocs\game\arrows\MakeGamen.as:277]
+	at Game/gotoSelect()[C:\xampp\htdocs\game\arrows\Game.as:1353]
+	at Game/save()[C:\xampp\htdocs\game\arrows\Game.as:903]
+	at Function/Game/$construct/clickClear()[C:\xampp\htdocs\game\arrows\Game.as:629]
+text:
+[2848]drawMember0 0
+[2849]sendDamageData
+[2850]checkClear
+[2851]enterFrameMain
+[2852]drawMember0 0
+[2853]sendDamageData
+[2854]checkClear
+[2855]save
+[2856]gotoSelect
+[2857]clearReportStatus
+[2858]getPlayerCnt
+[2827]drawMember0 0
+[2828]sendDamageData
+[2829]checkClear
+[2830]enterFrameMain
+[2831]drawMember0 0
+[2832]sendDamageData
+[2833]checkClear
+[2834]enterFrameMain
+[2835]drawMember0 0
+[2836]sendDamageData
+[2837]checkClear
+[2838]enterFrameMain
+[2839]drawMember0 0
+[2840]sendDamageData
+[2841]checkClear
+[2842]touch
+[2843]enterFrameMain
+[2844]drawMember0 0
+[2845]sendDamageData
+[2846]checkClear
+[2847]enterFrameMain
+
+2014-09-22 18:11:17 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 3 は 3 の範囲外です。
+location:RangeError: Error #1125: インデックス 3 は 3 の範囲外です。
+	at Game/gotoMain()[C:\xampp\htdocs\game\arrows\Game.as:1232]
+	at Function/Game/$construct/clickTeisatsu()[C:\xampp\htdocs\game\arrows\Game.as:560]
+	at MakeGamen/clickTeisatsu()[C:\xampp\htdocs\game\arrows\MakeGamen.as:472]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]gotoMain
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-22 18:42:02 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 24 は 20 の範囲外です。
+location:RangeError: Error #1125: インデックス 24 は 20 の範囲外です。
+	at Monster/moveAtan2Wave()[C:\xampp\htdocs\game\arrows\Monster.as:435]
+	at Monster/move()[C:\xampp\htdocs\game\arrows\Monster.as:211]
+	at Game/enterFrameMain()[C:\xampp\htdocs\game\arrows\Game.as:8184]
+	at starling.events::EventDispatcher/invokeEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:146]
+	at starling.events::EventDispatcher/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:117]
+	at starling.display::DisplayObject/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObject.as:398]
+	at starling.display::DisplayObjectContainer/broadcastEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:379]
+	at starling.display::Stage/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/Stage.as:77]
+	at starling.core::Starling/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:470]
+	at starling.core::Starling/nextFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:456]
+	at starling.core::Starling/onEnterFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:660]
+text:
+[1472]drawMember0 0
+[1473]sendDamageData
+[1474]checkClear
+[1475]enterFrameMain
+[1476]drawMember0 0
+[1477]sendDamageData
+[1478]checkClear
+[1479]enterFrameMain
+[1480]drawMember0 0
+[1481]sendDamageData
+[1482]checkClear
+[1483]enterFrameMain
+[1484]drawMember0 0
+[1485]sendDamageData
+[1486]checkClear
+[1487]enterFrameMain
+[1488]drawMember0 0
+[1489]sendDamageData
+[1490]checkClear
+[1491]enterFrameMain
+[1492]drawMember0 0
+[1493]sendDamageData
+[1494]checkClear
+[1495]enterFrameMain
+[1496]drawMember0 0
+[1497]sendDamageData
+[1498]checkClear
+[1499]checkGameOver
+[1500]enterFrameMain
+[1469]sendDamageData
+[1470]checkClear
+[1471]enterFrameMain
+
+2014-09-22 19:07:24 
+aaaaaaaa
+errorID:2101
+type:Error
+message:Error #2101: URLVariables.decode() に渡される文字列は、名前/値のペアを含む、URL エンコーディングされたクエリー文字列でなければなりません。
+location:Error: Error #2101: URLVariables.decode() に渡される文字列は、名前/値のペアを含む、URL エンコーディングされたクエリー文字列でなければなりません。
+	at Error$/throwError()
+	at flash.net::URLVariables/decode()
+	at flash.net::URLVariables()
+	at flash.net::URLLoader/onComplete()
+text:
+[128]getPlayerCnt
+[129]getPlayerCnt
+[130]getPlayerCnt
+[131]getPlayerCnt
+[132]getPlayerCnt
+[133]getPlayerCnt
+[134]getPlayerCnt
+[135]getPlayerCnt
+[136]getPlayerCnt
+[137]getPlayerCnt
+[106]getPlayerCnt
+[107]getPlayerCnt
+[108]getPlayerCnt
+[109]getPlayerCnt
+[110]getPlayerCnt
+[111]getPlayerCnt
+[112]getPlayerCnt
+[113]getPlayerCnt
+[114]getPlayerCnt
+[115]getPlayerCnt
+[116]getPlayerCnt
+[117]getPlayerCnt
+[118]getPlayerCnt
+[119]getPlayerCnt
+[120]getPlayerCnt
+[121]getPlayerCnt
+[122]getPlayerCnt
+[123]getPlayerCnt
+[124]getPlayerCnt
+[125]getPlayerCnt
+[126]getPlayerCnt
+[127]getPlayerCnt
+
+2014-09-22 19:59:19 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 3 は 3 の範囲外です。
+location:RangeError: Error #1125: インデックス 3 は 3 の範囲外です。
+	at MakeGamen/checkPallete()[C:\xampp\htdocs\game\arrows\MakeGamen.as:1196]
+	at MakeGamen/onLoader_Complete()[C:\xampp\htdocs\game\arrows\MakeGamen.as:884]
+text:
+[6464]drawMember0 0
+[6465]sendDamageData
+[6466]checkClear
+[6467]save
+[6468]gotoSelect
+[6469]clearReportStatus
+[6470]getPlayerCnt
+[6471]enterFrameSelectGamen
+[6472]joinTop
+[6473]_roomAddedListener
+[6474]enterFrameHitoOsugi
+[6475]addOccupantTopListener
+[6476]joinResultTopListener
+[6445]checkClear
+[6446]enterFrameMain
+[6447]drawMember0 0
+[6448]sendDamageData
+[6449]checkClear
+[6450]enterFrameMain
+[6451]drawMember0 0
+[6452]sendDamageData
+[6453]checkClear
+[6454]enterFrameMain
+[6455]drawMember0 0
+[6456]sendDamageData
+[6457]checkClear
+[6458]touch
+[6459]enterFrameMain
+[6460]drawMember0 0
+[6461]sendDamageData
+[6462]checkClear
+[6463]enterFrameMain
+
+2014-09-23 09:44:26 #qqqqqqqq(1->1[RCV]:DOCHO,1,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:44:27 #aaaaaaaa(2->2[RCV]:DOCHO,2,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 09:44:27 #qqqqqqqq(2->1[RCV]:DOCHO,2,60,0,20,0.8333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 09:44:27 #qqqqqqqq(1->1[RCV]:DOCHO,1,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:45:26 #qqqqqqqq(3->3[RCV]:DOCHO,3,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:45:26 #qqqqqqqq(3->3[RCV]:DOCHO,3,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:45:26 #qqqqqqqq(4->3[RCV]:DOCHO,4,60,12,24.8,1.0333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 09:45:26 #aaaaaaaa(4->4[RCV]:DOCHO,4,60,12,24.8,1.0333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-23 09:45:26 #aaaaaaaa(3->4[RCV]:DOCHO,3,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:46:24 #qqqqqqqq(5->5[RCV]:DOCHO,5,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:46:25 #qqqqqqqq(6->5[RCV]:DOCHO,6,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 09:46:25 #qqqqqqqq(5->5[RCV]:DOCHO,5,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:46:25 #aaaaaaaa(6->6[RCV]:DOCHO,6,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 09:46:25 #aaaaaaaa(5->6[RCV]:DOCHO,5,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:46:57 #qqqqqqqq(8->8[RCV]:DOCHO,8,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:46:57 #qqqqqqqq(8->8[RCV]:DOCHO,8,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:46:57 #qqqqqqqq(7->8[RCV]:DOCHO,7,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 09:46:57 #aaaaaaaa(8->7[RCV]:DOCHO,8,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:46:57 #aaaaaaaa(7->7[RCV]:DOCHO,7,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-23 09:52:03 #qqqqqqqq(9->9[RCV]:DOCHO,9,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:52:04 #qqqqqqqq(9->9[RCV]:DOCHO,9,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 09:52:04 #qqqqqqqq(11->9[RCV]:DOCHO,11,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 09:52:04 #aaaaaaaa(11->11[RCV]:DOCHO,11,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 09:52:04 #aaaaaaaa(9->11[RCV]:DOCHO,9,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 10:01:20 #qqqqqqqq(14->14[RCV]:DOCHO,14,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 10:01:27 #qqqqqqqq(14->14[RCV]:DOCHO,14,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 10:01:27 #aaaaaaaa(15->15[RCV]:DOCHO,15,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 10:01:27 #aaaaaaaa(14->15[RCV]:DOCHO,14,20,9,20.4,0.85,0,0,0.2,-1,-1,[MIN20]
+2014-09-23 10:01:27 #qqqqqqqq(15->14[RCV]:DOCHO,15,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN20]
+2014-09-23 10:02:24 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Game/enterFrameMain()[C:\xampp\htdocs\game\arrows\Game.as:8919]
+	at starling.events::EventDispatcher/invokeEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:146]
+	at starling.events::EventDispatcher/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:117]
+	at starling.display::DisplayObject/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObject.as:398]
+	at starling.display::DisplayObjectContainer/broadcastEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:379]
+	at starling.display::Stage/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/Stage.as:77]
+	at starling.core::Starling/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:470]
+	at starling.core::Starling/nextFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:456]
+	at starling.core::Starling/onEnterFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:660]
+text:
+[352]setGameLevel
+[353]leaveTop
+[354]messageListener
+[355]recieveCoopMsg
+[356]isHost
+[357]enterFrameMain
+[358]drawMember2 1
+[359]sendDamageData
+[360]sendMessage
+[361]checkClear
+[362]enterFrameMain
+[363]drawMember2 1
+[364]sendDamageData
+[365]checkClear
+[366]enterFrameMain
+[367]drawMember2 1
+[368]sendDamageData
+[369]checkClear
+[370]enterFrameMain
+[371]drawMember2 1
+[372]sendDamageData
+[373]checkClear
+[374]enterFrameMain
+[375]drawMember2 1
+[376]sendDamageData
+[377]checkClear
+[378]_roomRemovedListener
+[379]enterFrameMain
+[348]gotoMain
+[349]makeScenario
+[350]setHamayumi
+[351]drawBackground
+
+2014-09-23 10:02:57 #aaaaaaaa(16->16[RCV]:DOCHO,16,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-23 10:03:00 #aaaaaaaa(17->17[RCV]:DOCHO,17,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-23 10:03:06 #aaaaaaaa(18->18[RCV]:DOCHO,18,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-23 10:03:14 #aaaaaaaa(19->19[RCV]:DOCHO,19,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-23 10:03:42 #bbbbbbbb(19->20[RCV]:DOCHO,19,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-23 10:03:42 #aaaaaaaa(20->19[RCV]:DOCHO,20,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-23 10:03:42 #aaaaaaaa(19->19[RCV]:DOCHO,19,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN60]
+2014-09-23 10:03:42 #bbbbbbbb(20->20[RCV]:DOCHO,20,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-23 10:09:23 #bbbbbbbb(22->22[RCV]:DOCHO,22,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-23 10:09:25 #bbbbbbbb(22->22[RCV]:DOCHO,22,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-23 10:09:25 #bbbbbbbb(21->22[RCV]:DOCHO,21,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-23 10:09:25 #aaaaaaaa(22->21[RCV]:DOCHO,22,55,8,20,0.8333333333333334,0,0,0.2,8,-1,[MIN55]
+2014-09-23 10:09:25 #aaaaaaaa(21->21[RCV]:DOCHO,21,60,100,20,0.8333333333333334,0,0,0,-1,-1,[MIN55]
+2014-09-23 13:28:47 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at Table/getData()
+	at ItemGamen/clickItem()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]joinTop
+[7]_roomAddedListener
+[8]addOccupantTopListener
+[9]joinResultTopListener
+[10]enterFrameHitoOsugi
+[11]getPlayerCnt
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-24 09:36:04 
+
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Game()[C:\xampp\htdocs\game\arrows\Game.as:216]
+	at starling.core::Starling/initializeRoot()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:437]
+	at starling.core::Starling/initialize()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:410]
+	at starling.core::Starling/onContextCreated()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:649]
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-25 15:35:25 
+
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at Table/getData()[C:\xampp\htdocs\game\arrows\Table.as:37]
+	at Game/enableMessageSelectGamen()[C:\xampp\htdocs\game\arrows\Game.as:9585]
+	at Game/setClickTxt()[C:\xampp\htdocs\game\arrows\Game.as:10069]
+	at Game/checkClear()[C:\xampp\htdocs\game\arrows\Game.as:9914]
+	at Game/enterFrameMain()[C:\xampp\htdocs\game\arrows\Game.as:9530]
+	at starling.events::EventDispatcher/invokeEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:146]
+	at starling.events::EventDispatcher/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:117]
+	at starling.display::DisplayObject/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObject.as:398]
+	at starling.display::DisplayObjectContainer/broadcastEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:379]
+	at starling.display::Stage/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/Stage.as:77]
+	at starling.core::Starling/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:470]
+	at starling.core::Starling/nextFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:456]
+	at starling.core::Starling/onEnterFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:660]
+text:
+[1920]checkClear
+[1921]enterFrameSelectGamen
+[1922]enterFrameMain
+[1923]drawMember0 0
+[1924]sendDamageData
+[1925]checkClear
+[1926]checkGameOver
+[1927]enterFrameSelectGamen
+[1928]enterFrameMain
+[1929]monsterHP0
+[1930]drawMember0 0
+[1931]sendDamageData
+[1932]checkClear
+[1933]setClickTxt
+[1902]enterFrameMain
+[1903]drawMember0 0
+[1904]sendDamageData
+[1905]checkClear
+[1906]enterFrameSelectGamen
+[1907]enterFrameMain
+[1908]drawMember0 0
+[1909]sendDamageData
+[1910]checkClear
+[1911]enterFrameSelectGamen
+[1912]enterFrameMain
+[1913]drawMember0 0
+[1914]sendDamageData
+[1915]checkClear
+[1916]enterFrameSelectGamen
+[1917]enterFrameMain
+[1918]drawMember0 0
+[1919]sendDamageData
+
+2014-09-25 15:36:23 
+
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at Table/getData()
+	at Game/enableMessageSelectGamen()
+	at Game/setClickTxt()
+	at Game/checkClear()
+	at Game/enterFrameMain()
+	at starling.events::EventDispatcher/invokeEvent()
+	at starling.events::EventDispatcher/dispatchEvent()
+	at starling.display::DisplayObject/dispatchEvent()
+	at starling.display::DisplayObjectContainer/broadcastEvent()
+	at starling.display::Stage/advanceTime()
+	at starling.core::Starling/advanceTime()
+	at starling.core::Starling/nextFrame()
+	at starling.core::Starling/onEnterFrame()
+text:
+[544]setClickTxt
+[513]enterFrameSelectGamen
+[514]enterFrameMain
+[515]drawMember0 0
+[516]sendDamageData
+[517]checkClear
+[518]enterFrameSelectGamen
+[519]enterFrameMain
+[520]drawMember0 0
+[521]sendDamageData
+[522]checkClear
+[523]enterFrameSelectGamen
+[524]enterFrameMain
+[525]drawMember0 0
+[526]sendDamageData
+[527]checkClear
+[528]enterFrameSelectGamen
+[529]enterFrameMain
+[530]drawMember0 0
+[531]sendDamageData
+[532]checkClear
+[533]enterFrameSelectGamen
+[534]enterFrameMain
+[535]drawMember0 0
+[536]sendDamageData
+[537]checkClear
+[538]enterFrameSelectGamen
+[539]enterFrameMain
+[540]monsterHP0
+[541]drawMember0 0
+[542]sendDamageData
+[543]checkClear
+
+2014-09-26 13:00:30 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at ChatGamen/enterFrameListener()[C:\xampp\htdocs\game\arrows\ChatGamen.as:393]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]joinTop
+[8]_roomAddedListener
+[9]addOccupantTopListener
+[10]joinResultTopListener
+[11]_roomRemovedListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-27 18:56:02 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Game/gotoMain()
+	at Game/startCoop()
+	at MethodInfo-136()
+text:
+[32]makeHitBmp
+[33]finalize:true
+[34]drawBackground
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]getPlayerCnt
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]getPlayerCnt
+[27]getPlayerCnt
+[28]getPlayerCnt
+[29]startCoop
+[30]gotoMain
+[31]makeScenario
+
+2014-09-27 18:56:47 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Game/gotoMain()
+	at Game/startCoop()
+	at MethodInfo-136()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]startCoop
+[25]gotoMain
+[26]makeScenario
+[27]makeHitBmp
+[28]finalize:true
+[29]drawBackground
+null
+null
+
+2014-09-27 18:58:43 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at Game/gotoMain()[C:\xampp\htdocs\game\arrows\Game.as:1303]
+	at Game/startCoop()[C:\xampp\htdocs\game\arrows\Game.as:1805]
+	at Function/Game/$construct/clickStart()[C:\xampp\htdocs\game\arrows\Game.as:485]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]startCoop
+[18]gotoMain
+[19]makeScenario
+[20]makeHitBmp
+[21]finalize:true
+[22]drawBackground
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-28 12:04:19 
+aaaaaaaa
+errorID:2007
+type:TypeError
+message:Error #2007: パラメーター text は null 以外でなければなりません。
+location:TypeError: Error #2007: パラメーター text は null 以外でなければなりません。
+	at flash.text::TextField/set text()
+	at YumishiGamen/clickItem()
+text:
+[96]getPlayerCnt
+[97]getPlayerCnt
+[98]getPlayerCnt
+[99]getPlayerCnt
+[100]getPlayerCnt
+[101]getPlayerCnt
+[102]getPlayerCnt
+[103]getPlayerCnt
+[104]getPlayerCnt
+[105]getPlayerCnt
+[106]getPlayerCnt
+[107]getPlayerCnt
+[108]getPlayerCnt
+[109]getPlayerCnt
+[110]getPlayerCnt
+[111]getPlayerCnt
+[112]getPlayerCnt
+[113]getPlayerCnt
+[114]getPlayerCnt
+[115]getPlayerCnt
+[116]getPlayerCnt
+[117]getPlayerCnt
+[118]getPlayerCnt
+[119]getPlayerCnt
+[120]getPlayerCnt
+[121]getPlayerCnt
+[122]getPlayerCnt
+[123]getPlayerCnt
+[92]getPlayerCnt
+[93]getPlayerCnt
+[94]getPlayerCnt
+[95]getPlayerCnt
+
+2014-09-28 12:05:16 
+aaaaaaaa
+errorID:2007
+type:TypeError
+message:Error #2007: パラメーター text は null 以外でなければなりません。
+location:TypeError: Error #2007: パラメーター text は null 以外でなければなりません。
+	at flash.text::TextField/set text()
+	at YumishiGamen/clickItem()
+text:
+[96]getPlayerCnt
+[97]getPlayerCnt
+[98]getPlayerCnt
+[99]getPlayerCnt
+[100]getPlayerCnt
+[101]getPlayerCnt
+[102]getPlayerCnt
+[103]getPlayerCnt
+[104]getPlayerCnt
+[105]getPlayerCnt
+[106]getPlayerCnt
+[107]getPlayerCnt
+[108]getPlayerCnt
+[109]getPlayerCnt
+[110]getPlayerCnt
+[111]getPlayerCnt
+[112]getPlayerCnt
+[113]getPlayerCnt
+[114]getPlayerCnt
+[115]getPlayerCnt
+[116]getPlayerCnt
+[117]getPlayerCnt
+[118]getPlayerCnt
+[87]getPlayerCnt
+[88]getPlayerCnt
+[89]getPlayerCnt
+[90]getPlayerCnt
+[91]getPlayerCnt
+[92]getPlayerCnt
+[93]getPlayerCnt
+[94]getPlayerCnt
+[95]getPlayerCnt
+
+2014-09-28 12:38:46 
+aaaaaaaa
+errorID:2007
+type:TypeError
+message:Error #2007: パラメーター text は null 以外でなければなりません。
+location:TypeError: Error #2007: パラメーター text は null 以外でなければなりません。
+	at flash.text::TextField/set text()
+	at YumishiGamen/clickItem()
+text:
+[128]getPlayerCnt
+[129]getPlayerCnt
+[130]getPlayerCnt
+[131]getPlayerCnt
+[132]getPlayerCnt
+[133]getPlayerCnt
+[134]getPlayerCnt
+[135]getPlayerCnt
+[136]getPlayerCnt
+[137]getPlayerCnt
+[138]getPlayerCnt
+[139]getPlayerCnt
+[140]getPlayerCnt
+[141]getPlayerCnt
+[142]getPlayerCnt
+[143]getPlayerCnt
+[112]getPlayerCnt
+[113]getPlayerCnt
+[114]getPlayerCnt
+[115]getPlayerCnt
+[116]getPlayerCnt
+[117]getPlayerCnt
+[118]getPlayerCnt
+[119]getPlayerCnt
+[120]getPlayerCnt
+[121]getPlayerCnt
+[122]getPlayerCnt
+[123]getPlayerCnt
+[124]getPlayerCnt
+[125]getPlayerCnt
+[126]getPlayerCnt
+[127]getPlayerCnt
+
+2014-09-28 12:41:52 
+aaaaaaaa
+errorID:2007
+type:TypeError
+message:Error #2007: パラメーター text は null 以外でなければなりません。
+location:TypeError: Error #2007: パラメーター text は null 以外でなければなりません。
+	at flash.text::TextField/set text()
+	at YumishiGamen/clickItem()[C:\xampp\htdocs\game\arrows\YumishiGamen.as:244]
+text:
+[224]getPlayerCnt
+[225]getPlayerCnt
+[226]getPlayerCnt
+[227]getPlayerCnt
+[228]getPlayerCnt
+[229]getPlayerCnt
+[230]getPlayerCnt
+[231]getPlayerCnt
+[232]getPlayerCnt
+[233]getPlayerCnt
+[234]getPlayerCnt
+[235]getPlayerCnt
+[236]getPlayerCnt
+[237]getPlayerCnt
+[238]getPlayerCnt
+[239]getPlayerCnt
+[240]getPlayerCnt
+[241]getPlayerCnt
+[242]getPlayerCnt
+[243]getPlayerCnt
+[212]getPlayerCnt
+[213]getPlayerCnt
+[214]getPlayerCnt
+[215]getPlayerCnt
+[216]getPlayerCnt
+[217]getPlayerCnt
+[218]getPlayerCnt
+[219]getPlayerCnt
+[220]getPlayerCnt
+[221]getPlayerCnt
+[222]getPlayerCnt
+[223]getPlayerCnt
+
+2014-09-28 12:43:12 
+aaaaaaaa
+errorID:2007
+type:TypeError
+message:Error #2007: パラメーター text は null 以外でなければなりません。
+location:TypeError: Error #2007: パラメーター text は null 以外でなければなりません。
+	at flash.text::TextField/set text()
+	at YumishiGamen/clickItem()[C:\xampp\htdocs\game\arrows\YumishiGamen.as:244]
+text:
+[128]getPlayerCnt
+[129]getPlayerCnt
+[130]getPlayerCnt
+[99]getPlayerCnt
+[100]getPlayerCnt
+[101]getPlayerCnt
+[102]getPlayerCnt
+[103]getPlayerCnt
+[104]getPlayerCnt
+[105]getPlayerCnt
+[106]getPlayerCnt
+[107]getPlayerCnt
+[108]getPlayerCnt
+[109]getPlayerCnt
+[110]getPlayerCnt
+[111]getPlayerCnt
+[112]getPlayerCnt
+[113]getPlayerCnt
+[114]getPlayerCnt
+[115]getPlayerCnt
+[116]getPlayerCnt
+[117]getPlayerCnt
+[118]getPlayerCnt
+[119]getPlayerCnt
+[120]getPlayerCnt
+[121]getPlayerCnt
+[122]getPlayerCnt
+[123]getPlayerCnt
+[124]getPlayerCnt
+[125]getPlayerCnt
+[126]getPlayerCnt
+[127]getPlayerCnt
+
+2014-09-28 12:45:37 
+aaaaaaaa
+errorID:2007
+type:TypeError
+message:Error #2007: パラメーター text は null 以外でなければなりません。
+location:TypeError: Error #2007: パラメーター text は null 以外でなければなりません。
+	at flash.text::TextField/set text()
+	at YumishiGamen/clickItem()[C:\xampp\htdocs\game\arrows\YumishiGamen.as:244]
+text:
+[96]getPlayerCnt
+[97]getPlayerCnt
+[98]getPlayerCnt
+[99]getPlayerCnt
+[100]getPlayerCnt
+[101]getPlayerCnt
+[102]getPlayerCnt
+[103]getPlayerCnt
+[104]getPlayerCnt
+[105]getPlayerCnt
+[106]getPlayerCnt
+[107]getPlayerCnt
+[108]getPlayerCnt
+[109]getPlayerCnt
+[110]getPlayerCnt
+[111]getPlayerCnt
+[112]getPlayerCnt
+[113]getPlayerCnt
+[114]getPlayerCnt
+[115]getPlayerCnt
+[84]getPlayerCnt
+[85]getPlayerCnt
+[86]getPlayerCnt
+[87]getPlayerCnt
+[88]getPlayerCnt
+[89]getPlayerCnt
+[90]getPlayerCnt
+[91]getPlayerCnt
+[92]getPlayerCnt
+[93]getPlayerCnt
+[94]getPlayerCnt
+[95]getPlayerCnt
+
+2014-09-29 18:24:39 
+aaaaaaaa
+errorID:2006
+type:RangeError
+message:Error #2006: 指定したインデックスが境界外です。
+location:RangeError: Error #2006: 指定したインデックスが境界外です。
+	at flash.display::BitmapData/setVector()
+	at MakeGamen/redrawBmp()[C:\xampp\htdocs\game\arrows\MakeGamen.as:794]
+	at MakeGamen/clickBmp()[C:\xampp\htdocs\game\arrows\MakeGamen.as:645]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-29 18:57:46 
+aaaaaaaa
+errorID:2006
+type:RangeError
+message:Error #2006: 指定したインデックスが境界外です。
+location:RangeError: Error #2006: 指定したインデックスが境界外です。
+	at flash.display::BitmapData/setVector()
+	at MakeGamen/redrawBmp()[C:\xampp\htdocs\game\arrows\MakeGamen.as:805]
+	at MakeGamen/clickBmp()[C:\xampp\htdocs\game\arrows\MakeGamen.as:653]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-29 18:59:22 
+aaaaaaaa
+errorID:2006
+type:RangeError
+message:Error #2006: 指定したインデックスが境界外です。
+location:RangeError: Error #2006: 指定したインデックスが境界外です。
+	at flash.display::BitmapData/setVector()
+	at MakeGamen/redrawBmp()[C:\xampp\htdocs\game\arrows\MakeGamen.as:805]
+	at MakeGamen/clickBmp()[C:\xampp\htdocs\game\arrows\MakeGamen.as:653]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-09-29 19:12:11 
+aaaaaaaa
+errorID:2174
+type:Error
+message:Error #2174: 各 FileReference では、同時に複数のダウンロード、アップロード、読み込みまたは保存操作を行うことはできません。
+location:Error: Error #2174: 各 FileReference では、同時に複数のダウンロード、アップロード、読み込みまたは保存操作を行うことはできません。
+	at flash.net::FileReference/browse()
+	at MakeGamen/clickTorikomi()[C:\xampp\htdocs\game\arrows\MakeGamen.as:865]
+text:
+[2304]enterFrameHitoOsugi
+[2273]drawMember0 0
+[2274]sendDamageData
+[2275]checkClear
+[2276]enterFrameMain
+[2277]drawMember0 0
+[2278]sendDamageData
+[2279]checkClear
+[2280]enterFrameMain
+[2281]drawMember0 0
+[2282]sendDamageData
+[2283]checkClear
+[2284]enterFrameMain
+[2285]drawMember0 0
+[2286]sendDamageData
+[2287]checkClear
+[2288]enterFrameMain
+[2289]drawMember0 0
+[2290]sendDamageData
+[2291]checkClear
+[2292]enterFrameMain
+[2293]drawMember0 0
+[2294]sendDamageData
+[2295]checkClear
+[2296]gotoSelect
+[2297]clearReportStatus
+[2298]getPlayerCnt
+[2299]enterFrameSelectGamen
+[2300]joinTop
+[2301]_roomAddedListener
+[2302]addOccupantTopListener
+[2303]joinResultTopListener
+
+2014-10-02 11:30:26 
+aaaaaaaa
+errorID:2007
+type:TypeError
+message:Error #2007: パラメーター text は null 以外でなければなりません。
+location:TypeError: Error #2007: パラメーター text は null 以外でなければなりません。
+	at flash.text::TextField/set text()
+	at YumishiGamen/clickKyokaItem()
+text:
+[160]getPlayerCnt
+[161]getPlayerCnt
+[162]getPlayerCnt
+[163]getPlayerCnt
+[164]getPlayerCnt
+[165]getPlayerCnt
+[166]getPlayerCnt
+[167]getPlayerCnt
+[168]getPlayerCnt
+[169]getPlayerCnt
+[170]getPlayerCnt
+[171]getPlayerCnt
+[172]getPlayerCnt
+[173]getPlayerCnt
+[174]getPlayerCnt
+[175]getPlayerCnt
+[176]getPlayerCnt
+[177]getPlayerCnt
+[178]getPlayerCnt
+[179]getPlayerCnt
+[180]getPlayerCnt
+[181]getPlayerCnt
+[182]getPlayerCnt
+[183]getPlayerCnt
+[184]getPlayerCnt
+[185]getPlayerCnt
+[186]getPlayerCnt
+[187]getPlayerCnt
+[188]getPlayerCnt
+[157]getPlayerCnt
+[158]getPlayerCnt
+[159]getPlayerCnt
+
+2014-10-02 14:59:56 
+
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 240 は 240 の範囲外です。
+location:RangeError: Error #1125: インデックス 240 は 240 の範囲外です。
+	at BitmapManager$/init()
+	at Game()
+	at starling.core::Starling/initializeRoot()
+	at starling.core::Starling/initialize()
+	at starling.core::Starling/onContextCreated()
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:08:39 
+
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 240 は 240 の範囲外です。
+location:RangeError: Error #1125: インデックス 240 は 240 の範囲外です。
+	at BitmapManager$/init()[C:\xampp\htdocs\game\arrows\BitmapManager.as:238]
+	at Game()[C:\xampp\htdocs\game\arrows\Game.as:217]
+	at starling.core::Starling/initializeRoot()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:437]
+	at starling.core::Starling/initialize()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:410]
+	at starling.core::Starling/onContextCreated()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:649]
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:09:03 
+
+errorID:1069
+type:ReferenceError
+message:Error #1069: __AS3__.vec.Vector.<starling.display::Image> にプロパティ undefined が見つからず、デフォルト値もありません。
+location:ReferenceError: Error #1069: __AS3__.vec.Vector.<starling.display::Image> にプロパティ undefined が見つからず、デフォルト値もありません。
+	at BitmapManager$/init()[C:\xampp\htdocs\game\arrows\BitmapManager.as:519]
+	at Game()[C:\xampp\htdocs\game\arrows\Game.as:217]
+	at starling.core::Starling/initializeRoot()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:437]
+	at starling.core::Starling/initialize()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:410]
+	at starling.core::Starling/onContextCreated()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:649]
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:26:21 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:27:07 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:27:39 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:28:43 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:28:46 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:28:47 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:33:11 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 15:34:33 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 16:00:58 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 16:25:16 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 16:35:10 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-02 20:08:29 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-03 08:05:02 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at UnionServer2/isRoomFull()
+	at MethodInfo-133()
+text:
+[64]enterFrameJoin
+[65]enterFrameJoin
+[66]enterFrameJoin
+[67]enterFrameJoin
+[68]join
+[69]shuffleRoom
+[70]enterFrameJoin
+[71]enterFrameJoin
+[72]enterFrameJoin
+[73]enterFrameJoin
+[74]enterFrameJoin
+[75]enterFrameJoin
+[76]enterFrameJoin
+[77]enterFrameJoin
+[78]enterFrameJoin
+[79]enterFrameJoin
+[80]enterFrameJoin
+[81]enterFrameJoin
+[82]join
+[83]shuffleRoom
+[84]enterFrameJoin
+[85]enterFrameJoin
+[86]enterFrameJoin
+[87]enterFrameJoin
+[88]enterFrameJoin
+[89]enterFrameJoin
+[90]enterFrameJoin
+[91]isRoomFull
+[60]enterFrameJoin
+[61]enterFrameJoin
+[62]enterFrameJoin
+[63]enterFrameJoin
+
+2014-10-03 08:05:55 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at UnionServer2/isRoomFull()[C:\xampp\htdocs\game\arrows\UnionServer2.as:698]
+	at Function/Game/$construct/clickCancelCoop()[C:\xampp\htdocs\game\arrows\Game.as:431]
+text:
+[64]enterFrameJoin
+[65]enterFrameJoin
+[66]enterFrameJoin
+[67]enterFrameJoin
+[68]join
+[69]shuffleRoom
+[70]enterFrameJoin
+[71]enterFrameJoin
+[72]enterFrameJoin
+[73]enterFrameJoin
+[74]enterFrameJoin
+[75]enterFrameJoin
+[76]enterFrameJoin
+[77]enterFrameJoin
+[78]enterFrameJoin
+[79]enterFrameJoin
+[80]enterFrameJoin
+[81]enterFrameJoin
+[82]join
+[83]shuffleRoom
+[84]enterFrameJoin
+[85]enterFrameJoin
+[86]enterFrameJoin
+[87]isRoomFull
+[56]enterFrameJoin
+[57]enterFrameJoin
+[58]enterFrameJoin
+[59]enterFrameJoin
+[60]enterFrameJoin
+[61]enterFrameJoin
+[62]enterFrameJoin
+[63]enterFrameJoin
+
+2014-10-03 08:07:33 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at UnionServer2/isRoomFull()[C:\xampp\htdocs\game\arrows\UnionServer2.as:698]
+	at Function/Game/$construct/clickCancelCoop()[C:\xampp\htdocs\game\arrows\Game.as:440]
+text:
+[64]enterFrameJoin
+[65]isHost
+[66]isRoomFull
+[35]getPlayerCnt
+[36]gotoJoin
+[37]leaveTop
+[38]enterFrameJoin
+[39]join
+[40]shuffleRoom
+[41]_roomRemovedListener
+[42]enterFrameJoin
+[43]enterFrameJoin
+[44]enterFrameJoin
+[45]enterFrameJoin
+[46]enterFrameJoin
+[47]enterFrameJoin
+[48]enterFrameJoin
+[49]enterFrameJoin
+[50]enterFrameJoin
+[51]enterFrameJoin
+[52]enterFrameJoin
+[53]enterFrameJoin
+[54]join
+[55]shuffleRoom
+[56]enterFrameJoin
+[57]enterFrameJoin
+[58]enterFrameJoin
+[59]enterFrameJoin
+[60]enterFrameJoin
+[61]enterFrameJoin
+[62]enterFrameJoin
+[63]enterFrameJoin
+
+2014-10-03 08:08:24 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at UnionServer2/isClose()[C:\xampp\htdocs\game\arrows\UnionServer2.as:726]
+	at Function/Game/$construct/clickCancelCoop()[C:\xampp\htdocs\game\arrows\Game.as:440]
+text:
+[64]enterFrameJoin
+[65]enterFrameJoin
+[66]enterFrameJoin
+[67]enterFrameJoin
+[68]enterFrameJoin
+[69]enterFrameJoin
+[70]enterFrameJoin
+[71]isHost
+[72]isRoomFull
+[73]isClose
+[42]enterFrameJoin
+[43]join
+[44]shuffleRoom
+[45]enterFrameJoin
+[46]enterFrameJoin
+[47]_roomRemovedListener
+[48]enterFrameJoin
+[49]enterFrameJoin
+[50]enterFrameJoin
+[51]enterFrameJoin
+[52]enterFrameJoin
+[53]enterFrameJoin
+[54]enterFrameJoin
+[55]enterFrameJoin
+[56]enterFrameJoin
+[57]enterFrameJoin
+[58]join
+[59]shuffleRoom
+[60]enterFrameJoin
+[61]enterFrameJoin
+[62]enterFrameJoin
+[63]enterFrameJoin
+
+2014-10-03 21:14:52 
+bbbbbbbb
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[96]getPlayerCnt
+[97]getPlayerCnt
+[98]getPlayerCnt
+[99]getPlayerCnt
+[100]getPlayerCnt
+[69]enterFrameHitoOsugi
+[70]getPlayerCnt
+[71]enterFrameHitoOsugi
+[72]getPlayerCnt
+[73]enterFrameHitoOsugi
+[74]getPlayerCnt
+[75]enterFrameHitoOsugi
+[76]getPlayerCnt
+[77]enterFrameHitoOsugi
+[78]getPlayerCnt
+[79]enterFrameHitoOsugi
+[80]getPlayerCnt
+[81]_roomAddedListener
+[82]enterFrameHitoOsugi
+[83]getPlayerCnt
+[84]enterFrameHitoOsugi
+[85]getPlayerCnt
+[86]enterFrameHitoOsugi
+[87]getPlayerCnt
+[88]addOccupantTopListener
+[89]joinResultTopListener
+[90]enterFrameHitoOsugi
+[91]getPlayerCnt
+[92]getPlayerCnt
+[93]enterFrameHitoOsugi
+[94]getPlayerCnt
+[95]enterFrameHitoOsugi
+
+2014-10-03 21:16:42 
+bbbbbbbb
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 30 は 30 の範囲外です。
+location:RangeError: Error #1125: インデックス 30 は 30 の範囲外です。
+	at ItemGamen/show()[C:\xampp\htdocs\game\arrows\ItemGamen.as:596]
+	at Function/Game/$construct/clickItem()[C:\xampp\htdocs\game\arrows\Game.as:518]
+text:
+[32]addOccupantTopListener
+[33]joinResultTopListener
+[34]enterFrameHitoOsugi
+[35]getPlayerCnt
+[36]getPlayerCnt
+[37]enterFrameHitoOsugi
+[38]getPlayerCnt
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]getPlayerCnt
+[11]enterFrameSelectGamen
+[12]joinTop
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]_roomAddedListener
+[18]enterFrameHitoOsugi
+[19]getPlayerCnt
+[20]enterFrameHitoOsugi
+[21]getPlayerCnt
+[22]enterFrameHitoOsugi
+[23]getPlayerCnt
+[24]enterFrameHitoOsugi
+[25]getPlayerCnt
+[26]enterFrameHitoOsugi
+[27]getPlayerCnt
+[28]enterFrameHitoOsugi
+[29]getPlayerCnt
+[30]enterFrameHitoOsugi
+[31]getPlayerCnt
+
+2014-10-03 21:17:03 
+bbbbbbbb
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[64]getPlayerCnt
+[65]enterFrameHitoOsugi
+[66]getPlayerCnt
+[67]enterFrameHitoOsugi
+[68]getPlayerCnt
+[69]enterFrameHitoOsugi
+[70]getPlayerCnt
+[71]enterFrameHitoOsugi
+[72]getPlayerCnt
+[73]addOccupantTopListener
+[74]joinResultTopListener
+[75]enterFrameHitoOsugi
+[76]getPlayerCnt
+[77]getPlayerCnt
+[78]enterFrameHitoOsugi
+[79]getPlayerCnt
+[80]enterFrameHitoOsugi
+[81]getPlayerCnt
+[50]getPlayerCnt
+[51]enterFrameHitoOsugi
+[52]getPlayerCnt
+[53]enterFrameHitoOsugi
+[54]getPlayerCnt
+[55]enterFrameHitoOsugi
+[56]getPlayerCnt
+[57]enterFrameHitoOsugi
+[58]getPlayerCnt
+[59]enterFrameHitoOsugi
+[60]getPlayerCnt
+[61]enterFrameHitoOsugi
+[62]getPlayerCnt
+[63]enterFrameHitoOsugi
+
+2014-10-04 06:55:38 
+
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at starling.display::DisplayObjectContainer/addChildAt()
+	at starling.display::DisplayObjectContainer/addChild()
+	at MethodInfo-153()
+	at starling.events::EventDispatcher/invokeEvent()
+	at starling.events::EventDispatcher/dispatchEvent()
+	at starling.display::DisplayObject/dispatchEvent()
+	at starling.display::DisplayObjectContainer/broadcastEvent()
+	at starling.display::Stage/advanceTime()
+	at starling.core::Starling/advanceTime()
+	at starling.core::Starling/nextFrame()
+	at starling.core::Starling/onEnterFrame()
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-04 06:56:00 
+
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at starling.display::DisplayObjectContainer/addChildAt()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:117]
+	at starling.display::DisplayObjectContainer/addChild()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:106]
+	at Function/Game/$construct/initGamen()[C:\xampp\htdocs\game\arrows\Game.as:723]
+	at starling.events::EventDispatcher/invokeEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:146]
+	at starling.events::EventDispatcher/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/events/EventDispatcher.as:117]
+	at starling.display::DisplayObject/dispatchEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObject.as:398]
+	at starling.display::DisplayObjectContainer/broadcastEvent()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/DisplayObjectContainer.as:379]
+	at starling.display::Stage/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/display/Stage.as:77]
+	at starling.core::Starling/advanceTime()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:470]
+	at starling.core::Starling/nextFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:456]
+	at starling.core::Starling/onEnterFrame()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:660]
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-04 11:34:07 
+
+errorID:3677
+type:ArgumentError
+message:Error #3677
+location:null
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-04 15:45:15 
+bbbbbbbb
+errorID:1009
+type:TypeError
+message:Error #1009
+location:null
+text:
+[832]enterFrameJoin
+[833]isHost
+[834]isRoomFull
+[803]getPlayerCnt
+[804]gotoJoin
+[805]leaveTop
+[806]enterFrameJoin
+[807]enterFrameJoin
+[808]enterFrameJoin
+[809]enterFrameJoin
+[810]enterFrameJoin
+[811]enterFrameJoin
+[812]enterFrameJoin
+[813]join
+[814]shuffleRoom
+[815]enterFrameJoin
+[816]enterFrameJoin
+[817]enterFrameJoin
+[818]enterFrameJoin
+[819]enterFrameJoin
+[820]enterFrameJoin
+[821]enterFrameJoin
+[822]enterFrameJoin
+[823]enterFrameJoin
+[824]enterFrameJoin
+[825]enterFrameJoin
+[826]enterFrameJoin
+[827]join
+[828]shuffleRoom
+[829]enterFrameJoin
+[830]enterFrameJoin
+[831]enterFrameJoin
+
+2014-10-04 15:45:21 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009
+location:null
+text:
+[352]enterFrameJoin
+[353]enterFrameJoin
+[354]enterFrameJoin
+[355]enterFrameJoin
+[356]join
+[357]shuffleRoom
+[358]enterFrameJoin
+[359]enterFrameJoin
+[360]enterFrameJoin
+[361]enterFrameJoin
+[362]enterFrameJoin
+[363]enterFrameJoin
+[364]enterFrameJoin
+[365]enterFrameJoin
+[366]isHost
+[367]isRoomFull
+[336]getPlayerCnt
+[337]getPlayerCnt
+[338]getPlayerCnt
+[339]getPlayerCnt
+[340]getPlayerCnt
+[341]gotoJoin
+[342]leaveTop
+[343]_roomRemovedListener
+[344]enterFrameJoin
+[345]enterFrameJoin
+[346]enterFrameJoin
+[347]enterFrameJoin
+[348]enterFrameJoin
+[349]enterFrameJoin
+[350]enterFrameJoin
+[351]enterFrameJoin
+
+2014-10-04 15:57:44 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at UnionServer2/isRoomFull()[C:\xampp\htdocs\game\arrows\UnionServer2.as:704]
+	at Function/Game/$construct/clickCancelCoop()[C:\xampp\htdocs\game\arrows\Game.as:440]
+text:
+[320]enterFrameJoin
+[321]enterFrameJoin
+[322]enterFrameJoin
+[323]enterFrameJoin
+[324]isHost
+[325]isRoomFull
+[294]addOccupantTopListener
+[295]joinResultTopListener
+[296]enterFrameHitoOsugi
+[297]getPlayerCnt
+[298]getPlayerCnt
+[299]getPlayerCnt
+[300]gotoJoin
+[301]leaveTop
+[302]_roomRemovedListener
+[303]enterFrameJoin
+[304]enterFrameJoin
+[305]enterFrameJoin
+[306]enterFrameJoin
+[307]enterFrameJoin
+[308]enterFrameJoin
+[309]enterFrameJoin
+[310]enterFrameJoin
+[311]enterFrameJoin
+[312]enterFrameJoin
+[313]join
+[314]shuffleRoom
+[315]enterFrameJoin
+[316]enterFrameJoin
+[317]enterFrameJoin
+[318]enterFrameJoin
+[319]enterFrameJoin
+
+2014-10-07 02:43:10 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at UnionServer2/getPublicRooms()
+	at MethodInfo-655()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]joinTop
+[7]_roomAddedListener
+[8]addOccupantTopListener
+[9]joinResultTopListener
+[10]enterFrameHitoOsugi
+[11]getPlayerCnt
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 02:43:49 
+bbbbbbbb
+errorID:1009
+type:TypeError
+message:Error #1009
+location:null
+text:
+[32]getPlayerCnt
+[33]getPlayerCnt
+[34]getPlayerCnt
+[35]getPlayerCnt
+[36]getPlayerCnt
+[37]getPlayerCnt
+[38]getPlayerCnt
+[39]getPlayerCnt
+[40]getPlayerCnt
+[41]getPlayerCnt
+[42]getPlayerCnt
+[43]getPlayerCnt
+[44]getPlayerCnt
+[45]getPlayerCnt
+[46]getPlayerCnt
+[47]getPlayerCnt
+[48]getPlayerCnt
+[49]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]getPlayerCnt
+[27]getPlayerCnt
+[28]getPlayerCnt
+[29]getPlayerCnt
+[30]getPlayerCnt
+[31]getPlayerCnt
+
+2014-10-07 02:45:20 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at UnionServer2/getPublicRooms()
+	at MethodInfo-655()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]getPlayerCnt
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 02:45:45 
+bbbbbbbb
+errorID:1009
+type:TypeError
+message:Error #1009
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]joinTop
+[8]_roomAddedListener
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 02:46:33 
+bbbbbbbb
+errorID:1009
+type:TypeError
+message:Error #1009
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 02:47:57 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at UnionServer2/getPublicRooms()[C:\xampp\htdocs\game\arrows\UnionServer2.as:658]
+	at Function/SelectGamen/$construct/mouseOverAikotoba()[C:\xampp\htdocs\game\arrows\SelectGamen.as:107]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 02:48:25 
+aaaaaaaa
+errorID:1009
+type:TypeError
+message:Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+location:TypeError: Error #1009: null のオブジェクト参照のプロパティまたはメソッドにアクセスすることはできません。
+	at UnionServer2/getPublicRooms()[C:\xampp\htdocs\game\arrows\UnionServer2.as:658]
+	at Function/SelectGamen/$construct/mouseOverAikotoba()[C:\xampp\htdocs\game\arrows\SelectGamen.as:107]
+text:
+[32]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]_roomAddedListener
+[7]getPlayerCnt
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]getPlayerCnt
+[27]getPlayerCnt
+[28]getPlayerCnt
+[29]getPlayerCnt
+[30]getPlayerCnt
+[31]getPlayerCnt
+
+2014-10-07 05:28:14 
+
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at SelectGamen()
+	at Game()
+	at starling.core::Starling/initializeRoot()
+	at starling.core::Starling/initialize()
+	at starling.core::Starling/onContextCreated()
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 05:29:15 
+
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at SelectGamen()[C:\xampp\htdocs\game\arrows\SelectGamen.as:129]
+	at Game()[C:\xampp\htdocs\game\arrows\Game.as:487]
+	at starling.core::Starling/initializeRoot()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:437]
+	at starling.core::Starling/initialize()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:410]
+	at starling.core::Starling/onContextCreated()[/Users/redge/Dropbox/Development/starling/starling/src/starling/core/Starling.as:649]
+text:
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:06:38 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at MethodInfo-655()
+text:
+[32]enterFrameSelectGamen
+[33]enterFrameSelectGamen
+[34]enterFrameSelectGamen
+[35]enterFrameSelectGamen
+[36]enterFrameSelectGamen
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]enterFrameSelectGamen
+[11]enterFrameSelectGamen
+[12]enterFrameSelectGamen
+[13]enterFrameSelectGamen
+[14]enterFrameSelectGamen
+[15]enterFrameSelectGamen
+[16]enterFrameSelectGamen
+[17]enterFrameSelectGamen
+[18]enterFrameSelectGamen
+[19]enterFrameSelectGamen
+[20]enterFrameSelectGamen
+[21]enterFrameSelectGamen
+[22]enterFrameSelectGamen
+[23]enterFrameSelectGamen
+[24]enterFrameSelectGamen
+[25]enterFrameSelectGamen
+[26]enterFrameSelectGamen
+[27]enterFrameSelectGamen
+[28]enterFrameSelectGamen
+[29]enterFrameSelectGamen
+[30]enterFrameSelectGamen
+[31]enterFrameSelectGamen
+
+2014-10-07 06:06:48 
+bbbbbbbb
+errorID:1010
+type:TypeError
+message:Error #1010
+location:null
+text:
+[96]getPlayerCnt
+[97]_roomAddedListener
+[98]enterFrameHitoOsugi
+[99]getPlayerCnt
+[100]enterFrameHitoOsugi
+[101]getPlayerCnt
+[102]enterFrameHitoOsugi
+[103]getPlayerCnt
+[104]enterFrameHitoOsugi
+[105]getPlayerCnt
+[106]enterFrameHitoOsugi
+[107]getPlayerCnt
+[108]enterFrameHitoOsugi
+[109]getPlayerCnt
+[110]enterFrameHitoOsugi
+[111]getPlayerCnt
+[112]enterFrameHitoOsugi
+[113]getPlayerCnt
+[114]addOccupantTopListener
+[115]addOccupantTopListener
+[116]joinResultTopListener
+[117]enterFrameHitoOsugi
+[118]getPlayerCnt
+[119]getPlayerCnt
+[120]enterFrameHitoOsugi
+[121]_roomAddedListener
+[122]removeOccupantTopListener
+[123]getPlayerCnt
+[92]getPlayerCnt
+[93]enterFrameHitoOsugi
+[94]getPlayerCnt
+[95]enterFrameHitoOsugi
+
+2014-10-07 06:08:29 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at MethodInfo-655()
+text:
+[32]enterFrameHitoOsugi
+[33]getPlayerCnt
+[34]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]enterFrameSelectGamen
+[11]getPlayerCnt
+[12]enterFrameSelectGamen
+[13]joinTop
+[14]_roomAddedListener
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]enterFrameHitoOsugi
+[20]getPlayerCnt
+[21]enterFrameHitoOsugi
+[22]getPlayerCnt
+[23]enterFrameHitoOsugi
+[24]getPlayerCnt
+[25]enterFrameHitoOsugi
+[26]getPlayerCnt
+[27]addOccupantTopListener
+[28]joinResultTopListener
+[29]enterFrameHitoOsugi
+[30]getPlayerCnt
+[31]getPlayerCnt
+
+2014-10-07 06:08:53 
+bbbbbbbb
+errorID:1010
+type:TypeError
+message:Error #1010
+location:null
+text:
+[32]enterFrameHitoOsugi
+[33]getPlayerCnt
+[34]enterFrameHitoOsugi
+[35]getPlayerCnt
+[36]getPlayerCnt
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]enterFrameSelectGamen
+[11]enterFrameSelectGamen
+[12]getPlayerCnt
+[13]enterFrameSelectGamen
+[14]joinTop
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]_roomAddedListener
+[18]enterFrameHitoOsugi
+[19]getPlayerCnt
+[20]_roomAddedListener
+[21]addOccupantTopListener
+[22]joinResultTopListener
+[23]enterFrameHitoOsugi
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]enterFrameHitoOsugi
+[27]getPlayerCnt
+[28]enterFrameHitoOsugi
+[29]getPlayerCnt
+[30]enterFrameHitoOsugi
+[31]getPlayerCnt
+
+2014-10-07 06:10:54 
+bbbbbbbb
+errorID:1010
+type:TypeError
+message:Error #1010
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:11:19 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at Function/SelectGamen/$construct/mouseOverAikotoba()[C:\xampp\htdocs\game\arrows\SelectGamen.as:117]
+text:
+[32]getPlayerCnt
+[33]enterFrameHitoOsugi
+[34]getPlayerCnt
+[35]getPlayerCnt
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]_roomAddedListener
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]enterFrameHitoOsugi
+[10]getPlayerCnt
+[11]enterFrameHitoOsugi
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]enterFrameHitoOsugi
+[20]getPlayerCnt
+[21]enterFrameHitoOsugi
+[22]getPlayerCnt
+[23]enterFrameHitoOsugi
+[24]getPlayerCnt
+[25]enterFrameHitoOsugi
+[26]getPlayerCnt
+[27]enterFrameHitoOsugi
+[28]getPlayerCnt
+[29]_roomAddedListener
+[30]addOccupantTopListener
+[31]joinResultTopListener
+
+2014-10-07 06:28:31 
+bbbbbbbb
+errorID:1010
+type:TypeError
+message:Error #1010
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]joinTop
+[11]_roomAddedListener
+[12]addOccupantTopListener
+[13]joinResultTopListener
+[14]enterFrameHitoOsugi
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:28:50 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at MethodInfo-655()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]joinTop
+[11]getPlayerCnt
+[12]_roomAddedListener
+[13]_roomAddedListener
+[14]addOccupantTopListener
+[15]joinResultTopListener
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]enterFrameHitoOsugi
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:29:55 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]joinTop
+[7]enterFrameHitoOsugi
+[8]getPlayerCnt
+[9]enterFrameHitoOsugi
+[10]getPlayerCnt
+[11]enterFrameHitoOsugi
+[12]getPlayerCnt
+[13]_roomAddedListener
+[14]addOccupantTopListener
+[15]joinResultTopListener
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:30:11 
+bbbbbbbb
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]getPlayerCnt
+[11]_roomAddedListener
+[12]_roomAddedListener
+[13]addOccupantTopListener
+[14]joinResultTopListener
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]enterFrameHitoOsugi
+[19]getPlayerCnt
+[20]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:32:19 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]joinTop
+[8]getPlayerCnt
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:32:46 
+bbbbbbbb
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]_roomAddedListener
+[11]_roomAddedListener
+[12]addOccupantTopListener
+[13]joinResultTopListener
+[14]enterFrameHitoOsugi
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:40:40 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:45:01 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]_roomAddedListener
+[11]enterFrameHitoOsugi
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]addOccupantTopListener
+[16]joinResultTopListener
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]enterFrameHitoOsugi
+[22]getPlayerCnt
+[23]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:45:25 
+bbbbbbbb
+errorID:1010
+type:TypeError
+message:Error #1010
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]getPlayerCnt
+[10]_roomAddedListener
+[11]_roomAddedListener
+[12]addOccupantTopListener
+[13]joinResultTopListener
+[14]enterFrameHitoOsugi
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:46:43 
+cccccccc
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at Function/SelectGamen/$construct/clickAikotoba()[C:\xampp\htdocs\game\arrows\SelectGamen.as:113]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]enterFrameSelectGamen
+[10]enterFrameSelectGamen
+[11]joinTop
+[12]_roomAddedListener
+[13]_roomAddedListener
+[14]addOccupantTopListener
+[15]addOccupantTopListener
+[16]joinResultTopListener
+[17]getPlayerCnt
+[18]enterFrameHitoOsugi
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]enterFrameHitoOsugi
+[23]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:48:30 
+bbbbbbbb
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[32]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]getPlayerCnt
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]getPlayerCnt
+[27]getPlayerCnt
+[28]getPlayerCnt
+[29]getPlayerCnt
+[30]getPlayerCnt
+[31]getPlayerCnt
+
+2014-10-07 06:48:43 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]_roomAddedListener
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]getPlayerCnt
+[11]_roomAddedListener
+[12]addOccupantTopListener
+[13]joinResultTopListener
+[14]enterFrameHitoOsugi
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:55:51 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]getPlayerCnt
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:57:10 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:59:15 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]joinTop
+[7]_roomAddedListener
+[8]addOccupantTopListener
+[9]joinResultTopListener
+[10]enterFrameHitoOsugi
+[11]getPlayerCnt
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]getPlayerCnt
+null
+null
+null
+null
+null
+null
+
+2014-10-07 06:59:40 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:01:01 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:02:11 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]joinTop
+[8]_roomAddedListener
+[9]addOccupantTopListener
+[10]joinResultTopListener
+[11]enterFrameHitoOsugi
+[12]getPlayerCnt
+[13]getPlayerCnt
+[14]enterFrameHitoOsugi
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:04:48 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:10:18 
+bbbbbbbb
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]_roomAddedListener
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]enterFrameHitoOsugi
+[11]getPlayerCnt
+[12]getPlayerCnt
+[13]addOccupantTopListener
+[14]joinResultTopListener
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]enterFrameHitoOsugi
+[19]getPlayerCnt
+[20]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:12:15 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:12:55 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]getPlayerCnt
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:16:36 
+bbbbbbbb
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[32]getPlayerCnt
+[33]getPlayerCnt
+[34]getPlayerCnt
+[35]getPlayerCnt
+[36]getPlayerCnt
+[37]getPlayerCnt
+[38]getPlayerCnt
+[39]getPlayerCnt
+[40]getPlayerCnt
+[41]getPlayerCnt
+[42]getPlayerCnt
+[43]getPlayerCnt
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]getPlayerCnt
+[27]getPlayerCnt
+[28]getPlayerCnt
+[29]getPlayerCnt
+[30]getPlayerCnt
+[31]getPlayerCnt
+
+2014-10-07 07:16:42 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 1 は 1 の範囲外です。
+location:RangeError: Error #1125: インデックス 1 は 1 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]joinTop
+[7]_roomAddedListener
+[8]addOccupantTopListener
+[9]joinResultTopListener
+[10]enterFrameHitoOsugi
+[11]getPlayerCnt
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]addOccupantTopListener
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]_roomAddedListener
+[18]removeOccupantTopListener
+[19]getPlayerCnt
+[20]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:25:17 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]_roomAddedListener
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]addOccupantTopListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:25:28 
+bbbbbbbb
+errorID:1125
+type:RangeError
+message:Error #1125
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]enterFrameHitoOsugi
+[10]getPlayerCnt
+[11]_roomAddedListener
+[12]addOccupantTopListener
+[13]joinResultTopListener
+[14]enterFrameHitoOsugi
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]addOccupantTopListener
+[22]_roomAddedListener
+[23]removeOccupantTopListener
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]getPlayerCnt
+null
+null
+null
+null
+null
+
+2014-10-07 07:27:20 
+bbbbbbbb
+errorID:1010
+type:TypeError
+message:Error #1010
+location:null
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]joinTop
+[8]_roomAddedListener
+[9]addOccupantTopListener
+[10]joinResultTopListener
+[11]enterFrameHitoOsugi
+[12]getPlayerCnt
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:27:50 
+aaaaaaaa
+errorID:1010
+type:TypeError
+message:Error #1010: 条件は未定義であり、プロパティがありません。
+location:TypeError: Error #1010: 条件は未定義であり、プロパティがありません。
+	at Function/SelectGamen/$construct/clickAikotoba()[C:\xampp\htdocs\game\arrows\SelectGamen.as:133]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]getPlayerCnt
+[10]_roomAddedListener
+[11]_roomAddedListener
+[12]addOccupantTopListener
+[13]joinResultTopListener
+[14]enterFrameHitoOsugi
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:42:37 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 8 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 8 は 0 の範囲外です。
+	at Function/SelectGamen/$construct/clickBoshuList()[C:\xampp\htdocs\game\arrows\SelectGamen.as:171]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]getPlayerCnt
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 07:46:40 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at Function/SelectGamen/$construct/clickBoshuList()[C:\xampp\htdocs\game\arrows\SelectGamen.as:191]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]_roomAddedListener
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]leaveTop
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-07 08:07:01 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 6 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 6 は 0 の範囲外です。
+	at Function/SelectGamen/$construct/clickBoshuList()[C:\xampp\htdocs\game\arrows\SelectGamen.as:194]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]addOccupantTopListener
+[11]joinResultTopListener
+[12]enterFrameHitoOsugi
+[13]getPlayerCnt
+[14]getPlayerCnt
+[15]enterFrameHitoOsugi
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-08 08:10:59 
+aaaaaaaa
+errorID:2007
+type:TypeError
+message:Error #2007: パラメーター text は null 以外でなければなりません。
+location:TypeError: Error #2007: パラメーター text は null 以外でなければなりません。
+	at flash.text::TextField/set text()
+	at YumishiGamen/clickKyokaItem()
+text:
+[96]getPlayerCnt
+[97]getPlayerCnt
+[98]getPlayerCnt
+[99]getPlayerCnt
+[100]getPlayerCnt
+[101]getPlayerCnt
+[102]getPlayerCnt
+[103]getPlayerCnt
+[104]getPlayerCnt
+[105]getPlayerCnt
+[106]getPlayerCnt
+[107]getPlayerCnt
+[108]getPlayerCnt
+[109]getPlayerCnt
+[110]getPlayerCnt
+[111]getPlayerCnt
+[112]getPlayerCnt
+[113]getPlayerCnt
+[114]getPlayerCnt
+[115]getPlayerCnt
+[116]getPlayerCnt
+[117]getPlayerCnt
+[118]getPlayerCnt
+[119]getPlayerCnt
+[120]getPlayerCnt
+[121]getPlayerCnt
+[122]getPlayerCnt
+[91]getPlayerCnt
+[92]getPlayerCnt
+[93]getPlayerCnt
+[94]getPlayerCnt
+[95]getPlayerCnt
+
+2014-10-08 08:56:57 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]enterFrameSelectGamen
+[9]joinTop
+[10]_roomAddedListener
+[11]_roomAddedListener
+[12]addOccupantTopListener
+[13]joinResultTopListener
+[14]enterFrameHitoOsugi
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]getPlayerCnt
+[18]enterFrameHitoOsugi
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-08 08:58:56 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at Function/SelectGamen/$construct/clickBoshuList()[C:\xampp\htdocs\game\arrows\SelectGamen.as:187]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]_roomAddedListener
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]getPlayerCnt
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]enterFrameHitoOsugi
+[17]getPlayerCnt
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-08 09:02:02 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at Function/SelectGamen/$construct/clickBoshuList()[C:\xampp\htdocs\game\arrows\SelectGamen.as:187]
+text:
+[0]getPlayerCnt
+[1]gotoSelect
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]joinTop
+[9]_roomAddedListener
+[10]_roomAddedListener
+[11]addOccupantTopListener
+[12]joinResultTopListener
+[13]enterFrameHitoOsugi
+[14]getPlayerCnt
+[15]getPlayerCnt
+[16]getPlayerCnt
+[17]enterFrameHitoOsugi
+[18]getPlayerCnt
+[19]getPlayerCnt
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]getPlayerCnt
+[23]getPlayerCnt
+null
+null
+null
+null
+null
+null
+null
+null
+
+2014-10-08 09:22:26 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 3 は 3 の範囲外です。
+location:RangeError: Error #1125: インデックス 3 は 3 の範囲外です。
+	at MethodInfo-656()
+text:
+[32]getPlayerCnt
+[33]getPlayerCnt
+[34]getPlayerCnt
+[35]getPlayerCnt
+[36]getPlayerCnt
+[37]getPlayerCnt
+[38]getPlayerCnt
+[39]getPlayerCnt
+[40]getPlayerCnt
+[41]getPlayerCnt
+[42]getPlayerCnt
+[43]getPlayerCnt
+[44]getPlayerCnt
+[45]getPlayerCnt
+[46]getPlayerCnt
+[15]enterFrameSelectGamen
+[16]enterFrameSelectGamen
+[17]joinTop
+[18]_roomAddedListener
+[19]_roomAddedListener
+[20]_roomAddedListener
+[21]_roomAddedListener
+[22]addOccupantTopListener
+[23]joinResultTopListener
+[24]enterFrameHitoOsugi
+[25]getPlayerCnt
+[26]getPlayerCnt
+[27]enterFrameHitoOsugi
+[28]getPlayerCnt
+[29]getPlayerCnt
+[30]getPlayerCnt
+[31]getPlayerCnt
+
+2014-10-08 09:27:55 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[32]getPlayerCnt
+[33]getPlayerCnt
+[2]getPlayerCnt
+[3]init
+[4]isLocalSite
+[5]enterFrameSelectGamen
+[6]enterFrameSelectGamen
+[7]enterFrameSelectGamen
+[8]getPlayerCnt
+[9]enterFrameSelectGamen
+[10]enterFrameSelectGamen
+[11]enterFrameSelectGamen
+[12]enterFrameSelectGamen
+[13]enterFrameSelectGamen
+[14]enterFrameSelectGamen
+[15]joinTop
+[16]_roomAddedListener
+[17]addOccupantTopListener
+[18]joinResultTopListener
+[19]enterFrameHitoOsugi
+[20]getPlayerCnt
+[21]getPlayerCnt
+[22]enterFrameHitoOsugi
+[23]getPlayerCnt
+[24]getPlayerCnt
+[25]getPlayerCnt
+[26]getPlayerCnt
+[27]getPlayerCnt
+[28]getPlayerCnt
+[29]getPlayerCnt
+[30]getPlayerCnt
+[31]getPlayerCnt
+
+2014-10-08 11:46:46 
+aaaaaaaa
+errorID:1125
+type:RangeError
+message:Error #1125: インデックス 0 は 0 の範囲外です。
+location:RangeError: Error #1125: インデックス 0 は 0 の範囲外です。
+	at MethodInfo-656()
+text:
+[192]enterFrameHitoOsugi
+[193]getPlayerCnt
+[194]enterFrameHitoOsugi
+[195]getPlayerCnt
+[196]enterFrameHitoOsugi
+[197]getPlayerCnt
+[198]enterFrameHitoOsugi
+[199]getPlayerCnt
+[200]enterFrameHitoOsugi
+[201]getPlayerCnt
+[202]enterFrameHitoOsugi
+[203]getPlayerCnt
+[204]enterFrameHitoOsugi
+[205]getPlayerCnt
+[206]enterFrameHitoOsugi
+[207]getPlayerCnt
+[208]addOccupantTopListener
+[209]joinResultTopListener
+[210]enterFrameHitoOsugi
+[211]getPlayerCnt
+[212]getPlayerCnt
+[213]enterFrameHitoOsugi
+[214]getPlayerCnt
+[215]getPlayerCnt
+[216]getPlayerCnt
+[217]getPlayerCnt
+[218]getPlayerCnt
+[219]getPlayerCnt
+[220]getPlayerCnt
+[221]getPlayerCnt
+[222]getPlayerCnt
+[191]getPlayerCnt
+
+2014-10-17 20:22:48 getBoshuRooms error 1125[1]
+2014-10-17 20:22:49 getBoshuRooms error 1125[1]
+2014-10-17 20:22:50 getBoshuRooms error 1125[1]
+2014-10-17 20:22:50 getBoshuRooms error 1125[1]
+2014-10-17 20:22:50 getBoshuRooms error 1125[1]
+2014-10-17 20:22:51 getBoshuRooms error 1125[1]
+2014-10-18 04:04:52 makeScenario Error:1006
+2014-10-18 07:56:53 getBoshuRooms error 1009[1]
+2014-10-18 07:56:54 getBoshuRooms error 1009[1]
+2014-10-18 07:56:54 getBoshuRooms error 1009[1]
+2014-10-18 07:56:55 getBoshuRooms error 1009[1]
+2014-11-20 16:30:08 getBoshuRooms error 1009[1]
+2014-11-20 16:30:08 getBoshuRooms error 1009[1]
+2014-11-20 16:30:10 getBoshuRooms error 1009[1]
+2014-11-20 16:30:10 getBoshuRooms error 1009[1]
+2014-11-20 16:30:10 getBoshuRooms error 1009[1]
+2014-11-20 16:30:10 getBoshuRooms error 1009[1]
+2014-11-20 16:30:11 getBoshuRooms error 1009[1]
+2014-11-20 16:30:11 getBoshuRooms error 1009[1]
+2014-11-20 16:30:11 getBoshuRooms error 1009[1]
+2014-11-20 16:30:14 getBoshuRooms error 1009[1]
+2014-11-20 16:30:15 getBoshuRooms error 1009[1]
+2014-11-20 16:30:15 getBoshuRooms error 1009[1]
+2014-11-20 16:30:16 getBoshuRooms error 1009[1]
+2014-11-20 16:30:16 getBoshuRooms error 1009[1]
+2014-11-20 16:30:16 getBoshuRooms error 1009[1]
+2014-11-20 16:30:16 getBoshuRooms error 1009[1]
+2014-11-20 16:30:16 getBoshuRooms error 1009[1]
+2014-11-20 16:30:17 getBoshuRooms error 1009[1]
+2014-11-20 16:30:17 getBoshuRooms error 1009[1]
+2014-11-20 16:30:17 getBoshuRooms error 1009[1]
+2014-11-20 16:30:17 getBoshuRooms error 1009[1]
+2014-11-20 16:30:17 getBoshuRooms error 1009[1]
+2014-11-20 16:30:18 getBoshuRooms error 1009[1]
+2014-11-20 16:30:18 getBoshuRooms error 1009[1]
+2014-11-20 16:30:19 getBoshuRooms error 1009[1]
+2014-11-20 16:30:19 getBoshuRooms error 1009[1]
+2014-11-20 16:30:19 getBoshuRooms error 1009[1]
+2014-11-20 16:30:20 getBoshuRooms error 1009[1]
+2014-11-20 16:30:20 getBoshuRooms error 1009[1]
+2014-11-20 16:30:23 getBoshuRooms error 1009[1]
+2014-11-20 16:30:24 getBoshuRooms error 1009[1]
+2014-11-20 16:30:24 getBoshuRooms error 1009[1]
+2014-11-21 15:07:18 getBoshuRooms error 1009[1]
+2014-11-21 15:07:21 getBoshuRooms error 1009[1]
+2014-11-21 15:07:21 getBoshuRooms error 1009[1]
+2014-11-21 15:07:21 getBoshuRooms error 1009[1]
+2014-11-21 15:08:07 getBoshuRooms error 1009[1]
+2014-11-21 15:08:08 getBoshuRooms error 1009[1]
+2014-11-21 15:08:08 getBoshuRooms error 1009[1]
+2014-11-21 15:08:09 getBoshuRooms error 1009[1]
+2014-11-21 15:08:12 getBoshuRooms error 1009[1]
+2014-11-21 16:44:14 getBoshuRooms error 1009[1]
+2014-11-21 16:44:16 getBoshuRooms error 1009[1]
+2014-11-21 16:44:16 getBoshuRooms error 1009[1]
+2015-01-25 13:15:02 ■全て黒→当たり判定なし

@@ -1,0 +1,7 @@
+<TextureAtlas>
+<!-- nameの番号は桁をそろえる必要あり -->
+
+<!-- 矢 -->
+<SubTexture name='img_0000' x='0'   y='0' height='32' width='32'/>
+
+</TextureAtlas>
